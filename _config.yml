@@ -1,0 +1,35 @@
+# Site Settings
+title: Science Responds
+tagline: Scientists Respond to the COVID19 pandemic
+email: your-email@domain.com
+description: >
+  Longer description for your webpage
+# baseurl: "/bulma-clean-theme"
+# url: "https://www.csrhymes.com"
+permalink: pretty
+
+disqus:
+  # Leave shortname blank to disable comments site-wide.
+  shortname: 
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+
+sass:
+  style: compressed
+  source_dir: _sass
+
+#google_analytics: UA-code-here
+
+defaults:
+  - scope:
+      path: "pages"
+      type: "pages"
+    values:
+      layout: page
+      show_sidebar: false
+      hide_hero: true
+
+remote_theme: chrisrhymes/bulma-clean-theme
