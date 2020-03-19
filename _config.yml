@@ -5,7 +5,7 @@ email: your-email@domain.com
 description: >
   Longer description for your webpage
 baseurl: ""
-url: "https://science-responds.org"
+url: "http://science-responds.org"
 permalink: pretty
 
 disqus:
