@@ -43,4 +43,8 @@ defaults:
       show_sidebar: false
       hide_hero: true
 
-remote_theme: chrisrhymes/bulma-clean-theme
+# Build settings
+markdown: kramdown
+theme: minima
+
+#remote_theme: chrisrhymes/bulma-clean-theme
