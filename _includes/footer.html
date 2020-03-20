@@ -1,26 +1,43 @@
-<footer class="footer">
+<footer>
+  <div class="footer-dark">
     <div class="container">
-        
-        {% if site.footer_menu %}
-        <div class="columns is-multiline">
-            {% for item in site.data[site.footer_menu] %}
-            <div class="column has-text-centered">
-                <div>
-                    <a href="{{ item.link | prepend: site.baseurl }}" class="link">{{ item.name }}</a>
-                </div>
+      <div class="d-flex flex-row">
+        <div class="footer-vertical-center">
+          <div class="footer-logos">
+            <div class="footer-logo">
+              <img style="height:64px; width:64px;"src="/assets/logos/Iris-hep-5-just-graphic.png" alt="IRIS-HEP logo">
             </div>
-            {% endfor %}
+            <div class="footer-logo">
+              <img style="height:64px; width:64px;"src="/assets/images/nsf-logo-128.png" alt="NSF logo">
+            </div>
+          </div>
         </div>
-        {% endif %}
 
-        <div class="content is-small has-text-centered">
-          <p class="">
-              <a href="https://github.com/chrisrhymes/bulma-clean-theme">Website theme</a>
-              originally by
-              <a href="https://www.csrhymes.com">C.S. Rhymes</a>.
-          </p>
+        <div class="footer-text p-2 ml-auto flex-grow-1 footer-vertical-center">
+          This project is supported by National Science Foundation under Cooperative Agreement OAC-1836650.
+          Any opinions, findings, conclusions or recommendations expressed in this material are those of the
+          authors and do not necessarily reflect the views of the National Science Foundation.
         </div>
+        <div class="footer-vertical-center">
+          <div class="footer-buttons">
+            <button type="button" class="btn btn-outline-secondary btn-sm">
+              <a href="https://twitter.com/iris_hep"><i class="fa fa-twitter"></i></a>
+            </button>
+            <button type="button" class="btn btn-outline-secondary btn-sm">
+              <a href="https://www.youtube.com/channel/UC8Dmx4MYjp6RQ9ngc58Ujmg?view_as=subscriber"> <i class="fa fa-youtube"></i></a>
+            </button>
+            <button type="button" class="btn btn-outline-secondary btn-sm">
+              <a href="https://github.com/iris-hep/"> <span class="fa fa-github"></span></a>
+            </button>
+            <button type="button" class="btn btn-outline-secondary btn-sm">
+              <a href="https://groups.google.com/a/iris-hep.org/forum/#!forum/announcements"> <span class="fa fa-google"></span></a>
+            </button>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
+  </div>
 </footer>
 
 {% include text-expand.html %}
