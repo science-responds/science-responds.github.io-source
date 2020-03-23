@@ -1,7 +1,6 @@
 ---
 title: Overview
 permalink: /about/overview/
-layout: main
 ---
 
 # Overview

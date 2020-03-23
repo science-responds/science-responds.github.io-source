@@ -3,7 +3,6 @@ title: Science Responds
 layout: main
 subtitle: >
   Something really clever about your project. Be sure to update the banner image here in index.md as well.
-hero_image: https://wikitravel.org/upload/shared//6/6a/Default_Banner.jpg
 ---
 
 The coronavirus continues to spread around the world and risks
@@ -23,5 +22,4 @@ This website is meant to facilitate answering two questions:
 
    * Are there ways in which (non-medical) researchers can contribute to understanding and combating this global problem and its economic and societal impacts?
    * How can all types of research activities adapt and be effective in an era in which face-to-face meetings and travel are greatly reduced and conferences are being canceled?
-
 
