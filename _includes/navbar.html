@@ -13,22 +13,19 @@
                     <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About</a>
                     <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
                         <a class="dropdown-item" href="/about/overview">Overview</a>
-                        <a class="dropdown-item" href="/docs">Docs</a>
-                        <a class="dropdown-item" href="/sitemap">Sitemap</a>
                     </div>
                 </li>
-                <li class="nav-item dropdown active">
-                    <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Connect</a>
-                    <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                        <a class="dropdown-item" href="/news.html">News</a>
-                    </div>
+                <li class="nav-item active">
+                    <a class="nav-link" href="/resources">Resources</a>
                 </li>
+
+                <!-- Add projects here at some point -->
                 <li class="nav-item dropdown active">
-                    <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Activities</a>
+                    <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Primers</a>
                     <div class="dropdown-menu dropdown-menu-right" aria-labelledby="dropdownMenuButton">
-                        {% assign activities = site.pages | where: "layout", "focus-area" | sort: 'title' %}
-                        {% for mypage in activities %}
-                        <a class="dropdown-item" href="{{mypage.permalink}}">{{mypage.title}}</a>
+                        {% assign primers = site.pages | where_exp: "item", "item.path contains 'primers'" | sort: 'title' %}
+                        {% for mypage in primers %}
+                          <a class="dropdown-item" href="{{mypage.permalink}}">{{mypage.title}}</a>
                         {% endfor %}
                     </div>
                 </li>
