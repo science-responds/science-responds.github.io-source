@@ -1,16 +1,17 @@
 <!doctype html>
 <html lang="{{ site.lang | default: "en-US" }}">
     {% include head.html %}
-  <body style="padding-top: 3.5rem;">
+  <body>
 
     {% include navbar.html %}
-
+    <div id="container">
       <div class="container">
         <main role="main">
           {{ content }}
         </main>
       </div>
       {% include footer.html %}
+    </div>
 
   {% if site.google_analytics %}
     <script>
