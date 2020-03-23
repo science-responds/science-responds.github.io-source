@@ -39,7 +39,7 @@ defaults:
       path: "pages"
       type: "pages"
     values:
-      layout: page
+      layout: main
       show_sidebar: false
       hide_hero: true
 
