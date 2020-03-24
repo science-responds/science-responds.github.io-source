@@ -1,0 +1,33 @@
+title: Johns Hopkins Mapping nCOV Project
+
+description: |
+    This team has developed an [interactive web-based
+    dashboard](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
+    hosted by the Center for Systems Science and Engineering (CSSE) at Johns
+    Hopkins University, to visualize and track reported cases in real-time. The
+    dashboard illustrates the location and number of confirmed COVID-19 cases,
+    deaths and recoveries for all affected countries. It was developed to
+    provide researchers, public health authorities and the general public with
+    a user-friendly tool to track the outbreak as it unfolds. Additionally, the
+    data (which is verified and updated daily) is available on GitHub. They are
+    interested in conducting additional modeling of the emerging outbreak.
+
+resources:
+  - "Project [website](https://systems.jhu.edu/research/public-health/ncov/)"
+  - "Project and data GitHub [Repo](https://github.com/CSSEGISandData/COVID-19)"
+  - "The Lancet [article](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30120-1/fulltext)"
+  - "Interactive [Dashboard](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)"
+  - "[How to](https://blogs.sap.com/2020/03/11/quickly-load-covid-19-data-with-hana_ml-and-see-with-dbeaver/) quickly load the data with SAP API and Pandas"
+  - "Related [Kaggle challenge](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)"
+  - "Dashboards built on their dataset, using GitHub Actions: [covid19dashboards](http://covid19dashboards.com/), built on [fastai/fastpages](https://github.com/fastai/fastpages)"
+
+
+needs: |
+    It doesn’t explicitly say on the website, but presumably ML researchers, model-builders, data visualization folks, data scientists.
+
+tags:
+  - ds
+
+involve: |
+    * Reach out to the group at COVID19map@jhu.edu or jhusystems@gmail.com
+    * Grab the data and build your own project
