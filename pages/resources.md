@@ -74,4 +74,22 @@ Form a team (or go solo) and submit to the Kaggle Challenge (see [Initial Key Qu
   * Email opensourcehumankind@gmail.com 
   * If you are a medical professional, additionally fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSd8-pTFJKu8goc601K7Q9ZQ2LzQtGfwnKHWFYITzVVYEAnV-w/viewform)
 
+### CHIME: COVID-19 Hospital Impact Model for Epidemics
+
+**Description:** As we prepare for the additional demands that the [COVID-19 outbreak](https://www.cdc.gov/coronavirus/2019-nCoV/index.html) will place on our hospital system, our operational leaders need up-to-date projections of what additional resources will be required. Informed estimates of how many patients will need hospitalization, ICU beds, and mechanical ventilation over the coming days and weeks will be crucial inputs to readiness responses and mitigation strategies.To this end, the [Predictive Healthcare](http://predictivehealthcare.pennmedicine.org/) team at Penn Medicine has developed a tool that leverages [SIR modeling](https://mathworld.wolfram.com/SIRModel.html) to assist hospitals with capacity planning around COVID-19. [CHIME](https://github.com/pennsignals/chime) allows hospitals to enter information about their population and modify assumptions around the spread and behavior of COVID-19. It then runs a standard SIR model to project the number of new hospital admissions each day, along with the daily hospital census. These projections can then be used to create best- and worst-case scenarios to assist with capacity planning. It is currently being used by a few hospitals and they’re looking to expand!
+
+**Resources:**
+  * Project [home page](https://codeforphilly.org/projects/chime) (within Code For Philly)
+  * Project [GitHub](https://github.com/CodeForPhilly/chime)
+  * Project [documentation](https://codeforphilly.github.io/chime/)
+  * List of open [issues/projects](https://github.com/codeforphilly/chime/issues)
+  * Interactive [dashboard](https://penn-chime.phl.io/) for hospitals
+
+**Looking for:** Primarily Devops folks to help scale up the models/app and automate data collection and Project Managers to help develop documentation and ensure user accessibility. Possibly some modeling folks as well.
+
+**How to get involved:**
+  * Join the [Slack](https://codeforphilly.org/chat?channel=covid19-chime-penn)
+  * Check out the [Contributing section](https://codeforphilly.github.io/chime/CONTRIBUTING.html) in the user guide
+  * Check out the open issues on [GitHub](https://github.com/codeforphilly/chime/issues) and get started on one!
+
 
