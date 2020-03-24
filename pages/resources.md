@@ -92,4 +92,32 @@ Form a team (or go solo) and submit to the Kaggle Challenge (see [Initial Key Qu
   * Check out the [Contributing section](https://codeforphilly.github.io/chime/CONTRIBUTING.html) in the user guide
   * Check out the open issues on [GitHub](https://github.com/codeforphilly/chime/issues) and get started on one!
 
+### COVID-19 Risk
+
+**Description:** This project is focusing on research that could lead to an app that shows individuals their risk of COVID-19 infection based off GPS data, known cases, and Bluetooth proximity networks. They aim to do so in a way that preserves transparency and personal privacy. This is a  group of volunteers researching and designing an open-source app to make this idea a reality. Ideally, this app will take the GPS and Bluetooth data of users in an anonymised way, as well as some information about their potential or confirmed infection status, and use it to the benefit of both them and everybody else. There are several ways this could happen: through secure and anonymous [contact tracing](http://covid19risk.com/CSCT.pdf), through the creation of a risk [heatmap](http://covid19risk.com/heatmap), and through more accurate epidemiological modelling.
+
+**Resources:**
+  * Project [home page](https://www.covid19risk.com/)
+  * Project [blog](https://www.covid19risk.com/blog.html)
+  * Effective Altruism [post](https://forum.effectivealtruism.org/posts/8chk6DHZXctGHtNoz/covid-19-risk-assessment-app-idea-for-vetting-and-discussion)
+
+**Looking for:** Public health or epidemiology researchers, app developers, web developers, legal experts around data security/privacy, software engineers to implement spread models, folks who have worked in fundraising/grant writing.
+
+How to get involved:
+  * Email [collaborations@covid19risk.com](mailto:collaborations@covid19risk.com) with the role you would like to fill, an introduction to yourself, and links to previous work.
+
+### COVID Compare
+
+**Description:** This project is just kicking off and is working on tracking/mapping the relative risk of Covid19 in the US. 50 cases in Kentucky is not the same as 50 cases in NYC. People aren’t good at normalizing out other variables like population/hospital access so I want to do that for them visually. 
+
+**Resources:**
+  * Fast.ai tech help [page](https://forums.fast.ai/t/help-with-algorithm-for-covid19-relative-risk/65328)
+  * Map [prototype](https://covidcompare.com/)
+  * [Project GitHub](https://github.com/rbracco/covidcompare)
+
+**Looking for:** Data scientists, model builders, public health folks to help build a quantifier for risk and a predictive tool, web app developers and data visualizers, data collectors.
+
+**How to get involved:**
+  * Reach out to collaborators on [GitHub](https://github.com/rbracco/covidcompare)
+
 
