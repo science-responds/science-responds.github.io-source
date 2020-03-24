@@ -1,0 +1,24 @@
+title: Crowdfight COVID-19 
+
+description: |
+    This is an initiative from the scientific community to put all available
+    resources at the service of the fight against COVID-19. It has separate
+    portals for those already doing COVID-19 related research to request
+    resources and for those not yet engaged to volunteer.  As of March 21, 2020
+    this appears to be a (primarily) European initiative.
+.
+resources:
+  - "Project [home page](http://crowdfightcovid19.org/)"
+  - "Twitter [feed](https://twitter.com/Crowdfightcovi1)"
+    
+
+needs: |
+    Almost any skill set, from the ability to transcribe data from text into
+    databases to highly expert. They will try to match people to appropriate
+    projects.
+
+tags:
+  - ds
+
+involve: |
+    Register on their [volunteers page](http://crowdfightcovid19.org/volunteers).

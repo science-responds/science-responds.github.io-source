@@ -1,0 +1,24 @@
+title: COVID Compare
+
+description: |
+    This project is just kicking off and is working on tracking/mapping the
+    relative risk of Covid19 in the US. 50 cases in Kentucky is not the same as
+    50 cases in NYC. People aren’t good at normalizing out other variables like
+    population/hospital access so I want to do that for them visually.
+
+resources:
+  - "Fast.ai tech help [page](https://forums.fast.ai/t/help-with-algorithm-for-covid19-relative-risk/65328)"
+  - "Map [prototype](https://covidcompare.com/)"
+  - "[Project GitHub](https://github.com/rbracco/covidcompare)"
+
+
+needs: |
+    Data scientists, model builders, public health folks to help build a
+    quantifier for risk and a predictive tool, web app developers and data
+    visualizers, data collectors.
+
+tags:
+  - ds
+
+involve: |
+    Reach out to collaborators on [GitHub](https://github.com/rbracco/covidcompare)

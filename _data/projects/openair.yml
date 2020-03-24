@@ -1,0 +1,34 @@
+title: Project Open Air (Just One Giant Lab)
+
+description: |
+    Project Open Air/Helpful Engineers, hosted within the broader open science
+    group Just One Giant Lab has created a 5,000 strong volunteer organization,
+    with engineers, scientists and doctors around the world who work to
+    organize themselves into teams to design innovative ways to fight the
+    virus. They are quickly trying to design and arrange the production of
+    pragmatic devices to move life-saving air, extend existing tools, or
+    organize volunteers on the ground to bolster medical workers. They have
+    both hardware and software based projects including designing open source,
+    scalable easy to DIY ventilators and O2 concentrators, sentiment analysis
+    for persuasive public health media, diagnostic apps, and more!
+
+resources:
+  - "Project [homepage](https://app.jogl.io/project/121#about)"
+  - "Google [drive](https://drive.google.com/drive/folders/1qtQlHXeLzfgIWJPnlad803tzfmr0Z_7_) with project documents"
+  - "[GitHub](https://github.com/Helpful-Engineers/resources) for the software projects"
+    
+needs: |
+    MANY different skills sets: app developers, ML researchers, data
+    scientists, data visualization folks, makers, fabricators, designers,
+    organizers, and especially folks who can volunteer time for project
+    management.
+
+tags:
+  - ml
+  - ds
+
+involve: |
+    * See this [doc](https://docs.google.com/document/d/1cM87eJdXhP_8e9gJJZ_SnZXdo_huWsBmMzcqYWbhEOg/edit) and fill out the intake [form](https://docs.google.com/forms/d/e/1FAIpQLScu-4OOB5dGLWoSIA33CkAH__LE6b_M2PKRh0z6PMavL39uUQ/viewform)
+    * Join the [Slack](https://helpfulengineering.slack.com/join/shared_invite/zt-cuftcntg-BDc~3oBJ7izijjdmZ6CxZg) and introduce yourself in #introductions
+    * Email opensourcehumankind@gmail.com 
+    * If you are a medical professional, additionally fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSd8-pTFJKu8goc601K7Q9ZQ2LzQtGfwnKHWFYITzVVYEAnV-w/viewform)
