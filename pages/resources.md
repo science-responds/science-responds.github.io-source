@@ -19,14 +19,19 @@ Let’s make the most of our work from home time and try to help our fellow huma
 
 ## Projects
 
-*CORD19 Data Set*
-*Description:* This open dataset is supported by the White House Office of Science and Technology Policy, The Chan Zuckerberg Initiative, Microsoft Research, The Allen Institute for AI, The NIH Library of Medicine, Georgetown’s Center for Security and Emerging Technology, Cold Spring Harbor Lab, and Kaggle AI. CORD-19 is a resource of over 29,000 scholarly articles, including over 13,000 with full text, about COVID-19, SARS-CoV-2, and related coronaviruses. This freely available dataset is provided to the global research community to apply recent advances in natural language processing and other AI techniques to generate new insights in support of the ongoing fight against this infectious disease. The dataset represents the most extensive machine-readable coronavirus literature collection available for data and text mining to date and is updated as new research is published in peer-reviewed publications and archival services.
+### CORD19 Data Set
 
-*Resources:*
+**Description:** This open dataset is supported by the White House Office of Science and Technology Policy, The Chan Zuckerberg Initiative, Microsoft Research, The Allen Institute for AI, The NIH Library of Medicine, Georgetown’s Center for Security and Emerging Technology, Cold Spring Harbor Lab, and Kaggle AI. CORD-19 is a resource of over 29,000 scholarly articles, including over 13,000 with full text, about COVID-19, SARS-CoV-2, and related coronaviruses. This freely available dataset is provided to the global research community to apply recent advances in natural language processing and other AI techniques to generate new insights in support of the ongoing fight against this infectious disease. The dataset represents the most extensive machine-readable coronavirus literature collection available for data and text mining to date and is updated as new research is published in peer-reviewed publications and archival services.
+
+**Resources:**
   * [Kaggle Challenge](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
   * Georgetown’s Center for Security and Emerging Technology CORD19 [webpage](http://cset.georgetown.edu/covid-19-open-research-dataset-cord-19/)
-  * Semantic Scholar CORD19 webpage
-  * Tech Crunch article
-  * Unite.AI article
-  * Whitehouse Call to Action
+  * Semantic Scholar CORD19 [webpage](https://pages.semanticscholar.org/coronavirus-research)
+  * Tech Crunch [article](https://techcrunch.com/2020/03/16/coronavirus-machine-learning-cord-19-chan-zuckerberg-ostp/)
+  * Unite.AI [article](https://www.unite.ai/open-data-set-on-covid-19-released-for-machine-learning/)
+  * Whitehouse [Call to Action](https://www.whitehouse.gov/briefings-statements/call-action-tech-community-new-machine-readable-covid-19-dataset/)
+
+**Looking for:** Researchers familiar with NLP-based ML and AI methods.
+**How to get involved:** 
+Form a team (or go solo) and submit to the Kaggle Challenge (see [Initial Key Questions](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/tasks))
 
