@@ -1,0 +1,24 @@
+
+
+{%- for project_pair in site.data.projects -%}
+  {%- assign project = project_pair[1] -%}
+  {%- if project.tags contains include.tag -%}
+<h3>{{project.title}}</h3>
+<h4>Description</h4>
+{{project.description | markdownify}}
+    
+<h4>Resources</h4>
+<ul>
+      {%- for resource in project.resources -%}
+<li>{{resource | markdownify | remove: '<p>' | remove: '</p>'}}</li>
+      {%- endfor -%}
+</ul>
+
+<h4>Looking for</h4>
+{{project.needs | markdownify}}
+
+<h4>How to get involved</h4>
+{{project.involve | markdownify}}
+
+  {%- endif -%}
+{% endfor %}
