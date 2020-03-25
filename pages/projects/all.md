@@ -9,7 +9,7 @@ permalink: /projects/all
 
 This document is a place to collect details on open science/open source technology based projects related to COVID-19. This includes modeling, public health interventions, medical technology, resource distribution, and more. Please feel free to add your own project or other projects that you know of! We just ask that you keep the doc organized and follow the yaml format below:
 
-```yaml
+```yml
 title: Project Title
 description: |
     A brief description of the project
