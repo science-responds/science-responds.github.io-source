@@ -4,8 +4,8 @@ description: |
   COVID-19 Community is a community effort to build a Neo4j Knowledge Graph (KG) that links heterogenous data about COVID-19 to help fight this outbreak! It serves as a sandbox and incubator project and the best ideas will be incorporated into the Covid-19-Net KG.
 
 resources:
-  - Project [GitHub](https://github.com/covid-19-net/covid-19-community)
-  - Project is part of ‘[Graphs4Good 2020](https://medium.com/neo4j/graphhackers-lets-unite-to-help-save-the-world-graphs4good-2020-fed53562b41f)’
+  - "Project [GitHub](https://github.com/covid-19-net/covid-19-community)"
+  - "Project is part of ‘[Graphs4Good 2020](https://medium.com/neo4j/graphhackers-lets-unite-to-help-save-the-world-graphs4good-2020-fed53562b41f)’"
 
 needs: |
   Data scientists and machine learning developers, particularly datavisualization pros!

@@ -10,10 +10,10 @@ description: |
   to the larger F@H database.
 
 resources:
-  - Folding at Home [homepage](https://foldingathome.org/)
-  - Folding at Home [Community Support Forum](https://foldingforum.org/index.php)
-  - Recent [paper](https://www.biorxiv.org/content/10.1101/2020.02.09.940510v1.abstract) using Folding at Home to combat the Ebola virus
-  - [Folding at Home is now more powerful than the World’s top 7 super computers, combined!](https://www.tomshardware.com/news/folding-at-home-worlds-top-supercomputers-coronavirus-covid-19)
+  - "Folding at Home [homepage](https://foldingathome.org/)"
+  - "Folding at Home [Community Support Forum](https://foldingforum.org/index.php)"
+  - "Recent [paper](https://www.biorxiv.org/content/10.1101/2020.02.09.940510v1.abstract) using Folding at Home to combat the Ebola virus"
+  - "[Folding at Home is now more powerful than the World’s top 7 super computers, combined!](https://www.tomshardware.com/news/folding-at-home-worlds-top-supercomputers-coronavirus-covid-19)"
 
 needs: |
    Anyone with a computer!
