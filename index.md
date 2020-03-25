@@ -16,16 +16,10 @@ your families and your colleagues.
 The virus is having enormous direct health impacts on our society as well 
 as other major indirect social and economic impacts. The full scientific 
 research community and its rich set of tools are key to responding to 
-these challenges. 
-We are a group of non-medical researchers from various "Big Science" and
-computational fields. Our researchers have significant data analytics, 
-simulation, software, computing, and organizational skills, and "Big Science" 
-projects are also successful at marshaling large, distributed teams to 
-tackle problems.
+these challenges. This website has been set up to:
 
-This website is meant to facilitate answering two questions:
+  1. Make connections to enable (non-medical) researchers to contribute to understanding and combating this global problem and/or its economic and societal impacts. This includes in particular ways in which researchers with significant data analytics, machine learning, simulation, software, computing, and organizational skills can contribute, as well as places where marshaling large "Big Science"-style distributed teams to tackle problems can be useful.
 
-   * Are there ways in which (non-medical) researchers can contribute to understanding and combating this global problem and its economic and societal impacts?
-   * How can all types of research activities adapt and be effective in an era in which face-to-face meetings and travel are greatly reduced and conferences are being canceled?
+  2. Explore how all types of research activities can adapt and be effective in an era in which face-to-face meetings and travel are greatly reduced and conferences are being canceled.
 
-
+If you are interested in either of these topics, please join the Slack discussions, explore this website and find ways to make contributions!
