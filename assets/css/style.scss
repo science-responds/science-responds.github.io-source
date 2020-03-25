@@ -436,3 +436,10 @@ pre {
 div.nav-link.dropdown-toggle {
   width: max-content;
 }
+
+:target::before {
+  content: "";
+  display: block;
+  height: 120px; /* fixed header height*/
+  margin: -120px 0 0; /* negative fixed header height */
+}
