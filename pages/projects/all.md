@@ -37,7 +37,7 @@ To reach out to the doc creator, please email savannah.thais@gmail.com.
 {%  for project_pair in site.data.projects -%}
 {%-   assign project-id = project_pair[0] -%}
 {%-   assign project = project_pair[1] -%}
-| [{{ project.title }}]({{ site.baseurl }}/projects/{{ project.tags[0] }}/#{{project-id}}) | {{ project.tags }} |
+| [{{ project.title }}]({{ site.baseurl }}/projects/{{ project.tags[0] }}#{{project-id}}) | {{ project.tags }} |
 {% endfor %}
 
 
