@@ -19,6 +19,9 @@ needs: |
 
 tags:
   - ds
+  - dv
+  - ad
+  - other
 
 involve: |
     Reach out to collaborators on [GitHub](https://github.com/rbracco/covidcompare)

@@ -33,6 +33,8 @@ needs: |
 
 tags:
   - ds
+  - ad
+  - other
 
 involve: |
     * Join the [Slack](https://codeforphilly.org/chat?channel=covid19-chime-penn)

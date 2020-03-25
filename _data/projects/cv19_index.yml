@@ -1,0 +1,22 @@
+title: COVID-19 Vulnerability Index (CV19 Index)
+
+description: |
+  The CV19 Index is an open source, AI-based predictive model that identifies people who are likely to have a heightened vulnerability to severe complications from COVID-19 (commonly referred to as “The Coronavirus”).  The CV19 Index is intended to help hospitals, federal / state / local public health agencies and other healthcare organizations in their work to identify, plan for, respond to, and reduce the impact of COVID-19 in their communities. The CV19 Index is currently deployed in Chicago – [Medical Home Network](https://www.medicalhomenetwork.org/) – The largest Medicaid ACO in the country and is undergoing testing in New York and Florida.
+
+resources:
+  - "CV19 Index [homepage](https://closedloop.ai/cv19index/)"
+  - "Official [Press Release](https://closedloop.ai/closedloop-releases-open-source-covid-19-vulnerability-index/)"
+  - "Full [technical paper](https://arxiv.org/abs/2003.07347)"
+  - "CV19 Index [community forum](https://community.closedloop.ai/t/the-covid-19-vulnerability-index/15)"
+  - "Project [GitHub](https://github.com/closedloop-ai/cv19index)"
+  - "CV19 Index AWS Sagemaker [instance](https://aws.amazon.com/marketplace/pp/prodview-o4cte75mycicg)"
+
+needs: |
+   You can run the predictive model yourself by following the instructions on the homepage. Unfortunately, the team is not allowed to publicly share the training data set but they are look for volunteers to help out in many areas such as data prep and transformation, developing documentation, and adding more platform support.
+
+tags:
+  - ds
+  - ml
+
+involve: |
+  Email the team at covid19-info@closedloop.ai
