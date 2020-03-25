@@ -32,12 +32,22 @@ To reach out to the doc creator, please email savannah.thais@gmail.com.
 
 ## Projects
 
+{% assign projects = site.data.projects | sort -%}
+
 | Name | Areas |
 |------|-------|
-{%  for project_pair in site.data.projects -%}
+{%  for project_pair in projects -%}
 {%-   assign project-id = project_pair[0] -%}
 {%-   assign project = project_pair[1] -%}
-| [{{ project.title }}]({{ site.baseurl }}/projects/{{ project.tags[0] }}#{{project-id}}) | {{ project.tags }} |
+{%-   assign tags = "" | split: "," -%}
+{%-   for tag in project.tags -%}
+{%-     assign utag = tag | upcase -%}
+{%-     capture tag_str  -%}
+          [{{utag}}]({{site.baseurl}}/projects/{{tag}})
+{%-     endcapture -%}
+{%-     assign tags = tags | push: tag_str -%}
+{%-   endfor -%}
+| [{{ project.title }}]({{ site.baseurl }}/projects/{{ project.tags[0] }}#{{project-id}}) | {{ tags | join: ", " }} |
 {% endfor %}
 
 
