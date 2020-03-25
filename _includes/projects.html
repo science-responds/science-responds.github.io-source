@@ -1,5 +1,5 @@
 
-
+<div class="toc">
 <h2>Table of Contents</h2>
 <ul>
 {%- for project_pair in site.data.projects -%}
@@ -10,6 +10,7 @@
   {%- endif -%}
 {%- endfor -%}
 </ul>
+</div>
 
 <div class="projects">
 {%- for project_pair in site.data.projects -%}
@@ -18,7 +19,10 @@
   {%- if project.tags contains include.tag -%}
 <div class="project">
 <div class="description">
-<h3 id="{{project-id}}">{{project.title}}</h3>
+<div class="anchor">
+<a id="{{project-id}}"> </a>
+<h3>{{project.title}}</h3>
+</div>
 {{project.description | markdownify}}
 </div>
 
