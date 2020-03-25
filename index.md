@@ -6,13 +6,17 @@ subtitle: >
 hero_image: https://wikitravel.org/upload/shared//6/6a/Default_Banner.jpg
 ---
 
+## The Larger Scientific Community Responds to the COVID19 Pandemic
+
 The coronavirus continues to spread around the world and risks
 overwhelming the health systems in many countries. We hope that you
 are all well and are taking the necessary steps to protect yourselves,
 your families and your colleagues.
 
-In addition to the direct health impacts, the virus is having larger impacts 
-on our society. Scientific research is key to responding to this challenge. 
+The virus is having enormous direct health impacts on our society as well 
+as other major indirect social and economic impacts. The full scientific 
+research community and its rich set of tools are key to responding to 
+these challenges. 
 We are a group of non-medical researchers from various "Big Science" and
 computational fields. Our researchers have significant data analytics, 
 simulation, software, computing, and organizational skills, and "Big Science" 
