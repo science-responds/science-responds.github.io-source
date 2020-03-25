@@ -13,19 +13,30 @@ overwhelming the health systems in many countries. We hope that you
 are all well and are taking the necessary steps to protect yourselves,
 your families and your colleagues.
 
-The virus is having enormous direct health impacts on our society as well 
-as other major indirect social and economic impacts. The full scientific 
-research community and its rich set of tools are key to responding to 
-these challenges. This website has been set up by some "Big Science" (particle 
-physics and related fields) and computational science researchers to:
+The virus is having enormous direct health impacts on our society as well as
+other major indirect social and economic impacts. The full scientific research
+community and its rich set of tools are key to responding to these challenges.
+This website has been set up by some "Big Science" (particle physics and
+related fields) and computational science researchers to:
 
-  1. Make connections to enable (non-medical) researchers to contribute to understanding and combating this global problem and/or its economic and societal impacts. How can researchers with significant data analytics, machine learning, simulation, software, computing, and organizational skills contribute? Are there places where marshaling large "Big Science"-style distributed teams to tackle problems can be useful?
+  1. Make connections to enable (non-medical) researchers to contribute to
+     understanding and combating this global problem and/or its economic and
+     societal impacts. How can researchers with significant data analytics,
+     machine learning, simulation, software, computing, and organizational
+     skills contribute? Are there places where marshaling large "Big
+     Science"-style distributed teams to tackle problems can be useful?
 
-  2. Explore how all types of research activities can adapt and be effective in an era in which face-to-face meetings and travel are greatly reduced and conferences are being canceled. What are the lessons being learned and new ideas for how to approach this?
+  2. Explore how all types of research activities can adapt and be effective in
+     an era in which face-to-face meetings and travel are greatly reduced and
+     conferences are being canceled. What are the lessons being learned and new
+     ideas for how to approach this?
 
-If you are interested in either of these topics, please join the Slack discussions, explore this website and find ways to make contributions!
+If you are interested in either of these topics, please join the [Slack
+discussions](https://scienceresponds.slack.com/), explore this website and find
+ways to make contributions!
 
 **Please note:** this website is **not** meant to provide health information 
 should you or others be sick, information on how to take care of yourself 
 and others during the COVID19 pandemic or government or business information 
-on restrictions, quarantines or other measures being taken to stem the pandemic.Many other websites provide such information.
+on restrictions, quarantines or other measures being taken to stem the pandemic.
+Many other websites provide such information.
