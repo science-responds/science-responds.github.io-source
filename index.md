@@ -2,7 +2,7 @@
 title: Science Responds
 layout: main
 subtitle: >
-  Something really clever about your project. Be sure to update the banner image here in index.md as well.
+  The Larger Scientific Community Responds to the COVID19 Pandemic
 hero_image: https://wikitravel.org/upload/shared//6/6a/Default_Banner.jpg
 ---
 
@@ -31,7 +31,12 @@ related fields) and computational science researchers to:
      conferences are being canceled. What are the lessons being learned and new
      ideas for how to approach this?
 
-If you are interested in either of these topics, please join the [Slack
+The website provides links to various information sources on COVID19-related
+research, resources and research projects. We are also actively engaged
+through discussion in the Slack channel and periodic meetings in building
+further connections and enabling related discussions.
+
+If you are interested in either of the topics above, please join the [Slack
 discussions](https://scienceresponds.slack.com/), explore this website and find
 ways to make contributions!
 
