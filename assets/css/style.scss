@@ -437,16 +437,36 @@ div.nav-link.dropdown-toggle {
   width: max-content;
 }
 
-div.description {
-  margin-top: 4em;
-}
-
-.anchor a {
+div.anchor a {
   position: absolute;
   left: 0px;
-  top: -120px;
+  top: -130px;
 }
 
-.anchor {
+div.anchor {
   position: relative;
 }
+
+div.toc {
+  margin-top: 2em;
+}
+
+div.projects {
+  margin-bottom: 2em;
+}
+
+div.project {
+  border-radius: 8px;
+  box-shadow: 2px 2px 5px;
+  margin-top: 2em;
+  padding-left: .5em;
+  padding-right: .5em;
+  padding-top: .75em;
+  background-color: #eee;
+}
+
+div.description {
+  border-bottom: #FC766A solid 3px;
+  margin-bottom: 1em;
+}
+
