@@ -1,0 +1,30 @@
+title: Folding at Home 
+
+description: |
+  Folding at Home uses computer simulations to understand the proteins that viruses use to 
+  reproduce and suppress immune systems. This is done by taking the experimental structures 
+  as starting points, we can simulate how all the atoms in the protein move. Doing so can 
+  help health researchers find and understand new therapeutic opportunities. The 
+  calculations involved in these simulations are enormous, and so volunteers can use their 
+  existing compute resources to run folding simulations in the background and contribute 
+  to the larger F@H database.
+
+resources:
+  - Folding at Home [homepage](https://foldingathome.org/)
+  - Folding at Home [Community Support Forum](https://foldingforum.org/index.php)
+  - Recent [paper](https://www.biorxiv.org/content/10.1101/2020.02.09.940510v1.abstract) using Folding at Home to combat the Ebola virus
+  - [Folding at Home is now more powerful than the World’s top 7 super computers, combined!](https://www.tomshardware.com/news/folding-at-home-worlds-top-supercomputers-coronavirus-covid-19)
+
+needs: |
+   Anyone with a computer!
+
+tags:
+  - ds
+  - ml
+  - dv
+  - other
+  - ad
+  - wd
+
+involve: |
+  Follow the instructions on the COVID-19 [page](https://foldingathome.org/covid19/)
