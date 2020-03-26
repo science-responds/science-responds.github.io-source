@@ -8,7 +8,7 @@ permalink: /resources/articles
 ### Related academic papers
 <ul>
   {% for pub in sorted_publications %}
-     {% if pub.type == 'article' %}
+     {% if pub.type == 'publication' %}
      <li> {% include print_pub.html pub=pub %} </li>
      {% endif %}
   {% endfor %}
@@ -18,7 +18,7 @@ permalink: /resources/articles
 
 <ul>
   {% for pub in sorted_publications %}
-     {% if pub.type != 'article' %}
+     {% if pub.type == 'article' %}
      <li> {% include print_pub.html pub=pub %} </li>
      {% endif %}
   {% endfor %}
