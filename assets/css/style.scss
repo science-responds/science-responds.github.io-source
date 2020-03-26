@@ -463,7 +463,12 @@ div.project {
   padding-right: .5em;
   padding-top: .75em;
   background-color: #eee;
+  @media (prefers-color-scheme: dark) {
+    background-color: #484848;
+    box-shadow: none;
+  }
 }
+
 
 div.description {
   border-bottom: #FC766A solid 3px;
