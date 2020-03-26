@@ -21,7 +21,8 @@ related fields) and computational science researchers to:
   1. Make connections to enable (non-medical) researchers to contribute to
      understanding and combating this global problem and/or its economic and
      societal impacts. How can researchers with significant data analytics,
-     machine learning, simulation, software, computing, and organizational
+     machine learning, simulation, software, computing, hardwware development 
+     and organizational
      skills contribute? Are there places where marshaling large "Big
      Science"-style distributed teams to tackle problems can be useful?
 
