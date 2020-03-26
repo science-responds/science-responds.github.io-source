@@ -54,7 +54,7 @@
 			{% if haswishes == 1 %}
                         <a class="dropdown-item">Wish list items:</a>
                         {% for mypage in primers %}
-                        {%- if mypage.wishlist == 'yes' -%}
+                        {% if mypage.wishlist == 'yes' %}
                         <a class="dropdown-item" href="{{mypage.permalink}}">{{mypage.title}}</a>
 			{% endif %}
                         {% endfor %}
