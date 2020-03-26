@@ -1,0 +1,7 @@
+{%- assign now = site.time | date: %s -%}
+{%- assign expire = site.data.slack.expire | date: %s -%}
+{%- if now < expire -%}
+{%- assign slack_url = site.data.slack.url -%}
+{%- else -%}
+{%- assign slack_url = "https://scienceresponds.slack.com" -%}
+{%- endif -%}

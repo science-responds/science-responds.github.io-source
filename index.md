@@ -5,6 +5,8 @@ subtitle: >
   The Larger Scientific Community Responds to the COVID19 Pandemic
 ---
 
+{% include get_slack.html %}
+
 ## The Larger Scientific Community Responds to the COVID19 Pandemic
 
 The coronavirus continues to spread around the world and risks
@@ -37,7 +39,7 @@ through discussion in the Slack channel and periodic meetings in building
 further connections and enabling related discussions.
 
 If you are interested in either of the topics above, please join the [Slack
-discussions](https://join.slack.com/t/scienceresponds/shared_invite/zt-cr01en41-e7LpK38tEIgzbeaUQLDHfg), explore this website and find
+discussions]({{slack_url}}), explore this website and find
 ways to make contributions! (If you can not join by logging in, please send an email to science-responds-owner@googlegroups.com.)
 
 **Please note:** this website is **not** meant to provide health information 
