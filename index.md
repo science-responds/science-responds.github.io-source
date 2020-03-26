@@ -38,7 +38,7 @@ further connections and enabling related discussions.
 
 If you are interested in either of the topics above, please join the [Slack
 discussions](https://scienceresponds.slack.com/), explore this website and find
-ways to make contributions!
+ways to make contributions! (If you can not join by logging in, please send an email to science-responds-owner@googlegroups.com.)
 
 **Please note:** this website is **not** meant to provide health information 
 should you or others be sick, information on how to take care of yourself 
