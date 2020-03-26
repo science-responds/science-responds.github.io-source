@@ -11,4 +11,4 @@
     {%- else -%}
       {%- assign cited = "" -%}
     {%- endif -%}
-    <a href="{{ include.pub.link }}">{{ include.pub.title }}</a>, {{ include.pub.citation }} ({{ include.pub.date | date_to_string }}){{ cited }}.
+    <a href="{{ include.pub.link }}">{{ include.pub.title }}</a>, ({{ include.pub.date | date_to_string }}){{ cited }}.

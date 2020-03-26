@@ -1,0 +1,53 @@
+
+<div class="toc">
+<h2>Table of Contents</h2>
+<ul>
+{%- for project_pair in site.data.projects -%}
+  {%- assign project-id = project_pair[0] -%}
+  {%- assign project = project_pair[1] -%}
+  {%- if project.tags contains include.tag -%}
+<li><a href="#{{project-id}}">{{project.title}}</a></li>
+  {%- endif -%}
+{%- endfor -%}
+</ul>
+</div>
+
+<div class="projects">
+{%- for project_pair in site.data.projects -%}
+  {%- assign project-id = project_pair[0] -%}
+  {%- assign project = project_pair[1] -%}
+  {%- if project.tags contains include.tag -%}
+<div class="project">
+<div class="description">
+<div class="anchor">
+<a id="{{project-id}}"> </a>
+<h3>{{project.title}}</h3>
+</div>
+{{project.description | markdownify}}
+</div>
+
+<div class="extras">
+<div class="resouces panel">
+<h4>Resources</h4>
+<ul>
+      {%- for resource in project.resources -%}
+<li>{{resource | markdownify | remove: '<p>' | remove: '</p>'}}</li>
+      {%- endfor -%}
+</ul>
+</div>
+
+<div class="resouces panel">
+<h4>Looking for</h4>
+{{project.needs | markdownify}}
+</div>
+
+<div class="resouces panel">
+<h4>How to get involved</h4>
+{{project.involve | markdownify}}
+</div>
+
+</div>
+</div>
+  {%- endif -%}
+{% endfor %}
+</div>

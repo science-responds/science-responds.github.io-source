@@ -1,22 +1,41 @@
 <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
     <div class="container"> 
-        <a class="navbar-brand" href="/"><span><img src="/assets/images/598px-SARS-CoV-2_without_background.png" alt="Science Responds" height="89.7px" width="90px"></span></a>
+      <div class=navbar-img><a class="navbar-brand" href="/"><img src="/assets/images/598px-SARS-CoV-2_without_background.png" alt="Science Responds"></a></div>
+        <div class="blurb">
+        <h2>Science Responds</h2>
+        </div><!-- /.blurb -->
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="blurb">
-        <h2><b>Science Responds</b></h2>
-        </div><!-- /.blurb -->
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item dropdown active">
                     <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About</a>
                     <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
                         <a class="dropdown-item" href="/about/overview">Overview</a>
+                        <a class="dropdown-item" href="/about/team">The coordination team</a>
+                        <a class="dropdown-item" href="https://github.com/science-responds/science-responds.github.io-source">Contribute to the site</a>
+                        <a class="dropdown-item" href="https://scienceresponds.slack.com">Chat on Slack</a>
                     </div>
                 </li>
-                <li class="nav-item active">
-                    <a class="nav-link" href="/resources">Resources</a>
+
+                <li class="nav-item dropdown active">
+                    <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Resources</a>
+                    <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                        <a class="dropdown-item" href="/resources/computing">Computing resources</a>
+                        <a class="dropdown-item" href="/resources/datasets">Datasets</a>
+                        <a class="dropdown-item" href="/resources/articles">Articles and papers</a>
+                    </div>
+                </li>
+
+                <li class="nav-item dropdown active">
+                    <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Projects</a>
+                    <div class="dropdown-menu dropdown-menu-right" aria-labelledby="dropdownMenuButton">
+                        {% assign projects = site.pages | where_exp: "item", "item.path contains 'projects'" | sort: 'title' %}
+                        {% for mypage in projects %}
+                          <a class="dropdown-item" href="{{mypage.permalink}}">{{mypage.title}}</a>
+                        {% endfor %}
+                    </div>
                 </li>
 
                 <!-- Add projects here at some point -->
@@ -24,10 +43,19 @@
                     <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Primers</a>
                     <div class="dropdown-menu dropdown-menu-right" aria-labelledby="dropdownMenuButton">
                         {% assign primers = site.pages | where_exp: "item", "item.path contains 'primers'" | sort: 'title' %}
-                        {% for mypage in primers %}
+                        {% assign full_primers = primers | where_exp: "item", "item.wishlist != true" %}
+                        {% assign wish_primers = primers | where_exp: "item", "item.wishlist == true" %}
+                        {% for mypage in full_primers %}
                           <a class="dropdown-item" href="{{mypage.permalink}}">{{mypage.title}}</a>
                         {% endfor %}
-                    </div>
+                        {% if wish_primers.size > 0 %}
+                          <div class="dropdown-divider"></div>
+                          <a class="dropdown-item">Wish list items:</a>
+                          {% for mypage in wish_primers %}
+                            <a class="dropdown-item" href="{{mypage.permalink}}">{{mypage.title}}</a>
+                        {% endfor %}
+                      {% endif %}
+                  </div>
                 </li>
             </ul>
         </div>

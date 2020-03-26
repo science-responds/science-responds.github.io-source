@@ -185,7 +185,7 @@ body {
 }
 
 div#container {
-  padding-bottom: 7em;
+  padding-bottom: 8em;
   position:relative;
   height: auto !important;
   height: 100%; // IE 6
@@ -426,6 +426,107 @@ div#container {
   }
   a img {
     width: 100%;
+  }
+}
+
+
+// Projects panels
+
+div.projects div.project div.extras {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+div.projects div.project div.extras div.panel {
+  flex-basis: 250px;
+  flex-grow: 1;
+  margin-left: .25em;
+  margin-right: .25em;
+}
+
+pre {
+  @media (prefers-color-scheme: dark) {
+    color: #ddd;
+  }
+}
+
+div.nav-link.dropdown-toggle {
+  width: max-content;
+}
+
+div.anchor a {
+  position: absolute;
+  left: 0px;
+  top: -130px;
+}
+
+div.anchor {
+  position: relative;
+}
+
+div.toc {
+  margin-top: 2em;
+}
+
+div.projects {
+  margin-bottom: 2em;
+}
+
+div.project {
+  border-radius: 8px;
+  box-shadow: 2px 2px 5px;
+  margin-top: 2em;
+  padding-left: .5em;
+  padding-right: .5em;
+  padding-top: .75em;
+  background-color: #eee;
+  @media (prefers-color-scheme: dark) {
+    background-color: #484848;
+    box-shadow: none;
+  }
+}
+
+
+div.description {
+  border-bottom: #FC766A solid 3px;
+  margin-bottom: 1em;
+}
+
+div.navbar-img {
+  flex: 0 0 95px;
+}
+
+a.navbar-brand {
+  padding: 0;
+  margin: 0;
+}
+
+a.navbar-brand>img {
+  height: 89.7px;
+  width: 90px;
+}
+
+div.blurb>h2 {
+  font-weight: bold;
+}
+
+div.blurb {
+  flex: 1 1 150px;
+}
+
+.navbar-toggler {
+  flex: 0 0;
+}
+
+.navbar-expand-md .navbar-collapse {
+  flex-shrink: 0;
+}
+
+.navbar {
+  padding: 0 .2rem 0 .2rem;
+
+  @media only screen and (min-width: 400px) {
+    padding: 0 .5rem 0 .5rem;
   }
 }
 
