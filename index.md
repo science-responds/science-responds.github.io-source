@@ -3,7 +3,6 @@ title: Science Responds
 layout: main
 subtitle: >
   The Larger Scientific Community Responds to the COVID19 Pandemic
-hero_image: https://wikitravel.org/upload/shared//6/6a/Default_Banner.jpg
 ---
 
 ## The Larger Scientific Community Responds to the COVID19 Pandemic

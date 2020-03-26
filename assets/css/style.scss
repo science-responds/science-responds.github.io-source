@@ -9,8 +9,25 @@ html {
   height: 100%;
 }
 
-/* DIANA dark blue: 2C3E50; DIANA light blue: 3B97D3 */
-/* Original padding-top was 6rem */
+div.homepage {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+div.homepage-content {
+  flex-basis: 400px;
+  flex-shrink: 0;
+  flex-grow: 4;
+}
+
+div.homepage-twitter {
+  margin-left: 1em;
+  flex-basis: 240px;
+  flex-grow: 1;
+  flex-shrink: 0;
+}
+
 body {
   padding-top: 8rem;
   padding-bottom: 0;
