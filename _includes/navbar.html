@@ -43,23 +43,19 @@
                     <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Primers</a>
                     <div class="dropdown-menu dropdown-menu-right" aria-labelledby="dropdownMenuButton">
                         {% assign primers = site.pages | where_exp: "item", "item.path contains 'primers'" | sort: 'title' %}
-			{% assign haswishes = 0 %}
-                        {% for mypage in primers %}
-                        {% if mypage.wishlist != 'yes' %}
-                        <a class="dropdown-item" href="{{mypage.permalink}}">{{mypage.title}}</a>
-			{% else %}
-			{% assign haswishes = 1 %}
-			{% endif %}
+                        {% assign full_primers = primers | where_exp: "item", "item.wishlist != true" %}
+                        {% assign wish_primers = primers | where_exp: "item", "item.wishlist == true" %}
+                        {% for mypage in full_primers %}
+                          <a class="dropdown-item" href="{{mypage.permalink}}">{{mypage.title}}</a>
                         {% endfor %}
-			{% if haswishes == 1 %}
-                        <a class="dropdown-item">Wish list items:</a>
-                        {% for mypage in primers %}
-                        {% if mypage.wishlist == 'yes' %}
-                        <a class="dropdown-item" href="{{mypage.permalink}}">{{mypage.title}}</a>
-			{% endif %}
+                        {% if wish_primers.size > 0 %}
+                          <div class="dropdown-divider"></div>
+                          <a class="dropdown-item">Wish list items:</a>
+                          {% for mypage in wish_primers %}
+                            <a class="dropdown-item" href="{{mypage.permalink}}">{{mypage.title}}</a>
                         {% endfor %}
-			{% endif %}
-		    </div>
+                      {% endif %}
+                  </div>
                 </li>
             </ul>
         </div>
