@@ -469,10 +469,6 @@ div.project {
   }
 }
 
-.navbar > .container  {
-  flex-wrap: nowrap;
-}
-
 
 div.description {
   border-bottom: #FC766A solid 3px;
@@ -480,7 +476,7 @@ div.description {
 }
 
 div.navbar-img {
-  flex: 0 0 100px;
+  flex: 0 0 95px;
 }
 
 a.navbar-brand {
@@ -498,7 +494,7 @@ div.blurb>h2 {
 }
 
 div.blurb {
-  flex: 1 1 400px;
+  flex: 1 1 150px;
 }
 
 .navbar-toggler {
@@ -510,10 +506,10 @@ div.blurb {
 }
 
 .navbar {
-  padding: 0 .2rem 0 .4rem;
+  padding: 0 .2rem 0 .2rem;
 
-  @media only screen and (min-width: 500px) {
-    padding: 0 .5rem 0 1rem;
+  @media only screen and (min-width: 400px) {
+    padding: 0 .5rem 0 .5rem;
   }
 }
 
