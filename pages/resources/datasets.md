@@ -11,8 +11,8 @@ permalink: /resources/datasets
 + [**US Center for Disease Control**](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/index.html): Data is updated daily (weekdays only) at 4pm and contains case and death counts by state and territory and testing counts.
 + [**European Center for Disease Control**](https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases): Data is updated daily and contains case counts and death counts for all countries.
 + [**Our World in Data Testing Source Data**](https://ourworldindata.org/coronavirus-testing-source-data): Links to country specific data sources for testing statistics.
-+ [**Definitive Healthcare: USA Hospital Beds**](https://coronavirus-disasterresponse.hub.arcgis.com/datasets/definitivehc::definitive-healthcare-usa-hospital-beds?geometry=98.086%2C-16.820%2C-123.047%2C72.123): Regularly pulls updated data from US hospitals and includes numbers of staffed and liscensed beds and hospital information.
-+ [**COVID-19 Provider Practice Locations**](https://www.arcgis.com/home/item.html?id=6afcaeb7549f4390b07224a0be01b3a6): Contains practice locations of physician and non-physician healthcare providers in specialities related to COVID-19 respons efforts
++ [**Definitive Healthcare: USA Hospital Beds**](https://coronavirus-disasterresponse.hub.arcgis.com/datasets/definitivehc::definitive-healthcare-usa-hospital-beds?geometry=98.086%2C-16.820%2C-123.047%2C72.123): Regularly pulls updated data from US hospitals and includes numbers of staffed and licensed beds and hospital information.
++ [**COVID-19 Provider Practice Locations**](https://www.arcgis.com/home/item.html?id=6afcaeb7549f4390b07224a0be01b3a6): Contains practice locations of physician and non-physician healthcare providers in specialities related to COVID-19 response efforts.
 
 ## Web Scrapers and Compiled Datasets 
 + [**COVID-19 Tweet IDs**](https://github.com/echen102/COVID-19-TweetIDs): The repository contains an ongoing collection of tweets IDs associated with the novel coronavirus COVID-19 (SARS-CoV-2), which commenced on January 28, 2020.
