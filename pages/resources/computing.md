@@ -22,7 +22,7 @@ and/or calling proposals on COVID-19 research.
   * CERN
     * TBD
 
-  * Zenodo - [website](https://www.google.com/search?client=firefox-b-d&q=zenodo)
+  * Zenodo - [website](https://zenodo.org/)
     * Zenodo is a general purpose open-access data repository. If you need to share data (COVID-19 or other) you can do this via Zenodo. [Sign-up](https://zenodo.org/signup/)
     * There are already many COVID-19 related datasets being served. Use the search function on the website to find things you need.
     
