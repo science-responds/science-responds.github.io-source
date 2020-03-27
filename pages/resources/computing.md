@@ -10,7 +10,8 @@ permalink: /resources/computing
 
   * Open Science Grid - [website](https://opensciencegrid.org/)
     * Nominally part of XRAS above, but requests still being sorted out
-    * Contact directly for now: [help@opensciencegrid.org](mailto:help@opensciencegrid.org)
+    * Can help those who already share - or want to share - research computing capacity that their local institutions via OSG, and also to prioritize COVID-19 research
+    * For both contact them directly for now: [help@opensciencegrid.org](mailto:help@opensciencegrid.org)
 
   * WLCG
     * TBD
