@@ -3,8 +3,9 @@ title: Science Responds
 layout: main
 subtitle: >
   The Larger Scientific Community Responds to the COVID19 Pandemic
-hero_image: https://wikitravel.org/upload/shared//6/6a/Default_Banner.jpg
 ---
+
+{% include get_slack.html %}
 
 ## The Larger Scientific Community Responds to the COVID19 Pandemic
 
@@ -22,7 +23,8 @@ related fields) and computational science researchers to:
   1. Make connections to enable (non-medical) researchers to contribute to
      understanding and combating this global problem and/or its economic and
      societal impacts. How can researchers with significant data analytics,
-     machine learning, simulation, software, computing, and organizational
+     machine learning, simulation, software, computing, hardwware development 
+     and organizational
      skills contribute? Are there places where marshaling large "Big
      Science"-style distributed teams to tackle problems can be useful?
 
@@ -37,8 +39,8 @@ through discussion in the Slack channel and periodic meetings in building
 further connections and enabling related discussions.
 
 If you are interested in either of the topics above, please join the [Slack
-discussions](https://scienceresponds.slack.com/), explore this website and find
-ways to make contributions!
+discussions]({{slack_url}}), explore this website and find
+ways to make contributions! (If you can not join by logging in, please send an email to science-responds-owner@googlegroups.com.)
 
 **Please note:** this website is **not** meant to provide health information 
 should you or others be sick, information on how to take care of yourself 

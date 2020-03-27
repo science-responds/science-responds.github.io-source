@@ -9,8 +9,25 @@ html {
   height: 100%;
 }
 
-/* DIANA dark blue: 2C3E50; DIANA light blue: 3B97D3 */
-/* Original padding-top was 6rem */
+div.homepage {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+div.homepage-content {
+  flex-basis: 400px;
+  flex-shrink: 0;
+  flex-grow: 4;
+}
+
+div.homepage-twitter {
+  margin-left: 1em;
+  flex-basis: 240px;
+  flex-grow: 1;
+  flex-shrink: 0;
+}
+
 body {
   padding-top: 8rem;
   padding-bottom: 0;
@@ -463,10 +480,53 @@ div.project {
   padding-right: .5em;
   padding-top: .75em;
   background-color: #eee;
+  @media (prefers-color-scheme: dark) {
+    background-color: #484848;
+    box-shadow: none;
+  }
 }
+
 
 div.description {
   border-bottom: #FC766A solid 3px;
   margin-bottom: 1em;
+}
+
+div.navbar-img {
+  flex: 0 0 95px;
+}
+
+a.navbar-brand {
+  padding: 0;
+  margin: 0;
+}
+
+a.navbar-brand>img {
+  height: 89.7px;
+  width: 90px;
+}
+
+div.blurb>h2 {
+  font-weight: bold;
+}
+
+div.blurb {
+  flex: 1 1 150px;
+}
+
+.navbar-toggler {
+  flex: 0 0;
+}
+
+.navbar-expand-md .navbar-collapse {
+  flex-shrink: 0;
+}
+
+.navbar {
+  padding: 0 .2rem 0 .2rem;
+
+  @media only screen and (min-width: 400px) {
+    padding: 0 .5rem 0 .5rem;
+  }
 }
 
