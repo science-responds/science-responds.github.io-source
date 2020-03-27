@@ -7,19 +7,17 @@ permalink: /resources/articles
 
 ### Related academic papers
 <ul>
-  {% for pub in sorted_publications %}
-     {% if pub.type == 'publication' %}
-     <li> {% include print_pub.html pub=pub %} </li>
-     {% endif %}
-  {% endfor %}
+{% assign pubs = sorted_publications | where: "type", "publication" %}
+{% for pub in pubs %}
+<li> {% include print_pub.html pub=pub %} </li>
+{% endfor %}
 </ul>
 
 ### Other related articles
 
 <ul>
-  {% for pub in sorted_publications %}
-     {% if pub.type == 'article' %}
-     <li> {% include print_pub.html pub=pub %} </li>
-     {% endif %}
-  {% endfor %}
+{% assign pubs = sorted_publications | where: "type", "article" %}
+{% for pub in pubs %}
+<li> {% include print_pub.html pub=pub %} </li>
+{% endfor %}
 </ul>
