@@ -6,7 +6,7 @@ permalink: /resources/computing
 # Computing resources
 
   A number of scientific computing and data resources are prioritizing 
-and/or calling proposals on COVID19 research. Some can also enable 
+and/or calling proposals on COVID-19 research. 
 
   * U.S. COVID-19 HPC Consortium - [website](https://www.ibm.com/covid19/hpc-consortium)
     * XSEDE Resource Allocations System (XRAS) - [Preparing a COVID-19 HPC Consortium Request](https://www.xsede.org/covid19-hpc-consortium)
@@ -21,6 +21,11 @@ and/or calling proposals on COVID19 research. Some can also enable
 
   * CERN
     * TBD
+
+  * Zenodo - [website](https://www.google.com/search?client=firefox-b-d&q=zenodo)
+    * Zenodo is a general purpose open-access data repository. If you need to share data (COVID-19 or other) you can do this via Zenodo. [Sign-up](https://zenodo.org/signup/)
+    * There are already many COVID-19 related datasets being served. Use the search function on the website to find things you need.
+    
 
   * PRACE
     * [Fast Track Call for Proposals](https://prace-ri.eu/prace-support-to-mitigate-impact-of-covid-19-pandemic/)
