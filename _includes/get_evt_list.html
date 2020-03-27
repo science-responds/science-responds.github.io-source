@@ -1,0 +1,7 @@
+{% assign sorted_events = "" | split: "," %}
+{% for evt_hash in site.data.events  %}
+  {% assign evt = evt_hash[1] %}
+  {% assign sorted_events = sorted_events | push: evt %}
+{% endfor %}
+{% assign sorted_events = sorted_events | sort: "date" | reverse %}
+
