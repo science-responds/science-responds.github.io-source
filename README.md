@@ -23,6 +23,9 @@ docker run --rm -v "$PWD:/srv/jekyll" \
            -it jekyll/jekyll:3.8 \
            jekyll serve --livereload
 ```
+
+For either case, you can now go to <http://localhost:4000> on a browser and see the website locally.
+
 </details>
 
 <details><summary><b> RbEnv setup (recommended) (click to expand) </b></summary>
@@ -83,7 +86,9 @@ Now, you can use `bundle exec` to run a command in the new environment you just 
 bundle exec jeykyll serve
 ```
 
-This will incrementally rebuild if anything changes in your directory. Exit with Control-C.
+This will incrementally rebuild if anything changes in your directory.
+You can now go to <http://localhost:4000> on a browser and see the website locally.
+Exit with Control-C in the terminal.
 
 ## Adding content
 
