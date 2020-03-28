@@ -8,7 +8,7 @@ To contribute, make a PR to this repository.
 
 Visit [this page](https://jekyllrb.com/docs/installation/) for information about installing Ruby. 
 
-<details><summary><h3> Docker setup (click to expand) </h3></summary>
+<details><summary><b>Docker setup (click to expand)</b></summary>
 If you use docker, the following line will build and serve the site locally:
 
 ```bash
@@ -25,7 +25,7 @@ docker run --rm -v "$PWD:/srv/jekyll" \
 ```
 </details>
 
-<details><summary><h3> RbEnv setup (recommended) (click to expand) </h3></summary>
+<details><summary><b> RbEnv setup (recommended) (click to expand) </b></summary>
 
 You can and should use rbenv to manage multiple ruby versions. On macOS with homebrew, you'll want:
 
