@@ -30,8 +30,10 @@ and/or calling proposals on COVID-19 research.
   * PRACE
     * [Fast Track Call for Proposals](https://prace-ri.eu/prace-support-to-mitigate-impact-of-covid-19-pandemic/)
 
-  * Folding at Home
+  * Folding at Home - [website](https://foldingathome.org)
     * Volunteer computing for protein folding
     * See the links in the [project description](https://science-responds.org/projects/ds#fah) on this website
 
+  * Rosetta@Home - [website](https://boinc.bakerlab.org)
+    * Volunteer computing for protein folding, structure prediction and design
  
