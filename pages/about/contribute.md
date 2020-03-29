@@ -5,8 +5,16 @@ permalink: /about/contribute/
 
 # Contribute
 
-Please help us add content to the website! The source for the website is here:
-[github.com\science-responds/science-responds.github.io-source](https://github.com/science-responds/science-responds.github.io-source). The README describes local previews and some of the basic site layout. We use Jekyll to build the site, and the Liquid template engine to build the data-powered pages, like projects and articles.
+Please help us add content to the website! This is intended as a community
+project and a community resource, so please discuss in the "Science
+Responds" Slack organization and contribute to the website content. For
+the latter, we are interested in contributions about possible projects,
+links to relevant articles and papers, "primers" which explain relevant
+topics for a non-expert (but technically knowledgeable) audience, links
+to COVID-19 relevant events, etc. Please look at what is on the website (and
+what isn't, including new categories of information) and fill in the holes.
+
+The source for the website is here: [github.com\science-responds/science-responds.github.io-source](https://github.com/science-responds/science-responds.github.io-source). The README describes local previews and some of the basic site layout. We use Jekyll to build the site, and the Liquid template engine to build the data-powered pages, like projects and articles.
 
 ### Quick change
 
