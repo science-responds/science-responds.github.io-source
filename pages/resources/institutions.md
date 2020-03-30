@@ -8,7 +8,7 @@ permalink: /resources/institutions
 One idea we have is to reach out locally within our own universities
 and local communities to see if there are local efforts we could help,
 both directly and by connecting them to global efforts. It is also
-bi-directional, we can also benefit from anyone who is willing to help
+bi-directional, we can benefit from anyone who is willing to help
 inform this community, e.g. through short topical meetings/seminars
 and/or discussions of what the research needs are for various COVID-19
 activities. As always we
