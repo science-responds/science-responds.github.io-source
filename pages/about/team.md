@@ -14,5 +14,6 @@ and engage additional people, but it is essentially a "do-acracy".
   * Ian Fisk - Flatiron Institute
   * Markus Elsing, Maria Girone, Lukas Heinrich - CERN
   * Chris Tunnell - Rice University
+  * Mark Neubauer - University of Illinois at Urbana-Champaign
 
 If you are active, please feel free to add your name here.
