@@ -40,14 +40,15 @@ within your own university or laboratory, and your local community:
     For example, efforts to produce personal protective equipment using
     3D-printers? 
 
-# Efforts and Resources at Individual Universities and Laboratories
+## Efforts and Resources at Individual Universities and Laboratories
 
-## Princeton University
-   <template to be provided>
+### University of X
+   *template to be provided*
 
-## University of X
-   <template to be provided>
+### Laboratory Y
+   *template to be provided*
 
-## Laboratory Y
-   <template to be provided>
+### Z University
+   *template to be provided*
+
  
