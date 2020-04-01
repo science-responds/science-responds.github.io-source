@@ -8,7 +8,7 @@ permalink: /resources/computing
   A number of scientific computing and data resources are prioritizing 
 and/or calling proposals on COVID-19 research. 
 
-  * U.S. COVID-19 HPC Consortium - [website](https://www.ibm.com/covid19/hpc-consortium)
+  * U.S. COVID-19 HPC Consortium - [website](https://covid19-hpc-consortium.org/)
     * XSEDE Resource Allocations System (XRAS) - [Preparing a COVID-19 HPC Consortium Request](https://www.xsede.org/covid19-hpc-consortium)
 
   * Open Science Grid - [website](https://opensciencegrid.org/)
