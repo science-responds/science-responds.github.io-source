@@ -37,6 +37,6 @@ and/or calling proposals on COVID-19 research.
   * Rosetta@Home - [website](https://boinc.bakerlab.org)
     * Volunteer computing for protein folding, structure prediction and design
 
-  * Google COVID-19 dataset access - [Google Cloud Console](https://console.cloud.google.com/marketplace/details/bigquery-public-datasets/covid19-public-data-program?_ga=2.25371005.-1523446672.1585631840)
-    * "A hosted repository of public datasets, like Johns Hopkins Center for Systems Science and Engineering (JHU CSSE), the Global Health Data from the World Bank, and OpenStreetMap data" - [Full News Item](https://cloud.google.com/blog/products/data-analytics/free-public-datasets-for-covid19)
-    * The program will remain in effect until September 15, 2020. 
+  * Compute4COVID - [GitHub](https://github.com/foertter/Compute4COVID)
+    * A collection of compute resources for people doing research related to COVID virus curated by a small consortia of computing centers wishing to support efforts to combat COVID. It is intended to connect people to available resources.
+    * Includes links to a collection of Cloud and HPC resources.
