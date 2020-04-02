@@ -9,6 +9,42 @@
         <div class="homepage-content">
         <main role="main">
           {{ content }}
+
+          {%- include get_slack.html %}
+          <div id="triplet">
+            <h4>Join us</h4>
+            <div class="triplet-panels">
+              <div class="pane">
+                <h5 class="card-title">Discussions</h5>
+                <p class="card-text">
+                Join us in our <a href="{{slack_url}}">Slack discussions</a>! This is where we are getting organized, and it is also a great place to ask quick questions and get quick responses.
+                </p>
+              </div>
+              <div class="pane">
+                <h5 class="card-title">Contribute</h5>
+                <p class="card-text">
+                Add content to the website! Follow <a href="{{site.baseurl}}{% link pages/about/contribute.md %}">the instructions here</a>, or if you already
+                are a git-expert, <a
+                                    href="https://github.com/science-responds/science-responds.github.io-source">head
+                                    to our repository</a>!
+                </p>
+              </div>
+              <div class="pane">
+                <h5 class="card-title">Contact</h5>
+                <p class="card-text">
+                We can be reached at <a href="mailto:science-responds-owner@googlegroups.com">science-responds-owner@googlegroups.com</a>.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div class="alert alert-danger" role="alert">
+            <strong>Please note:</strong> this website is <strong>not</strong> meant to
+            provide health information should you or others be sick, information on how to
+            take care of yourself and others during the COVID-19 pandemic or government or
+            business information on restrictions, quarantines or other measures being taken
+            to stem the pandemic.  Many other websites provide such information.
+          </div>
         </main>
         </div>
         <div class="homepage-twitter">

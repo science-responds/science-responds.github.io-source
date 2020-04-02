@@ -1,6 +1,0 @@
-- name: About
-  dropdown:
-    - name: Team
-      link: /about/team/
-    - name: Web development
-      link: /about/webdev/
