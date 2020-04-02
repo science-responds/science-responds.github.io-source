@@ -4,6 +4,9 @@ permalink: /primers/sars-cov-2/
 wishlist: yes
 ---
 
+Author: Mario Lassnig  
+Reviewer: **Needs reviewing**
+
 # SARS-CoV-2
 
 [SARS-CoV-2](https://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome_coronavirus_2) is a highly contagious [coronavirus](https://en.wikipedia.org/wiki/Coronavirus), causing the [COVID-19](https://en.wikipedia.org/wiki/Coronavirus_disease_2019) disease. The common symptoms include fever, cough, and shortness of breath. It was first discovered in the Chinese city of Wuhan, and has since spread across the globe. The [World Health Organization](https://who.int) declared the 2019-2020 outbreak as a pandemic, and many regions have imposed drastic measures to contain the spread of the virus.
