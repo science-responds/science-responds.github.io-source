@@ -43,5 +43,6 @@ permalink: /resources/events
      <li> {% include print_evt.html evt=evt %} </li>
      {% endif %}
      {% endif %}
+     {% endif %}
   {% endfor %}
 </ul>
