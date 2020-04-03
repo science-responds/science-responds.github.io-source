@@ -36,12 +36,17 @@ explore within your own university or laboratory, and your local community:
     there data handling issues related to local COVID-19 research? (Including
     the use of national resources by local teams?)
 
-  * What COVID-19 related research is happening on your campus? Are there 
-    any local COVID-19 research collaborations that are forming?
+  * Are there any new and innovative COVID-19 research collaborations that 
+    are forming between non-traditional partners on your campus?
 
-  * Are there activities related to medical equipment in your insitution?
+  * Are there activities in your insitution towards temporary production of 
+    medical equipment to help deal with the shortfalls in availability for
+    health workers?
     For example, efforts to produce personal protective equipment using
-    3D-printers? 
+    3D-printers, or ventilators and other associated items? 
+
+If thare web links related to any of these things, please include them
+in the summary below of the activities at your institution.
 
 ## Efforts and Resources at Individual Universities and Laboratories
 
