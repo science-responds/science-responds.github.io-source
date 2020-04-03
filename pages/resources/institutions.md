@@ -45,7 +45,7 @@ explore within your own university or laboratory, and your local community:
     For example, efforts to produce personal protective equipment using
     3D-printers, or ventilators and other associated items? 
 
-If thare web links related to any of these things, please include them
+If there are web links related to any of these things, please include them
 in the summary below of the activities at your institution.
 
 ## Efforts and Resources at Individual Universities and Laboratories
