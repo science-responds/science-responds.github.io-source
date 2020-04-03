@@ -24,13 +24,24 @@ permalink: /resources/events
   {% endfor %}
 </ul>
 
+### Courses
+<ul>
+  {% for evt in sorted_events %}
+     {% if evt.type == 'course' %}
+     <li> {% include print_evt.html evt=evt %} </li>
+     {% endif %}
+  {% endfor %}
+</ul>
+
 ### Other events
 
 <ul>
   {% for evt in sorted_events %}
      {% if evt.type != 'conference' %}
      {% if evt.type != 'hackathon' %}
+     {% if evt.type != 'course' %}
      <li> {% include print_evt.html evt=evt %} </li>
+     {% endif %}
      {% endif %}
      {% endif %}
   {% endfor %}
