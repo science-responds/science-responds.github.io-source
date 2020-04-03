@@ -20,9 +20,12 @@ of personnel and students and then "continuity of critical operations". You
 may find that more of them are now trying to find ways to marshall
 their capabilities and make an impact. Reaching
 out to people within your local institution probably adds some "trust" 
-value relative to strangers from another university or country. Here are 
-some ideas for possible contacts you can make and questions you can explore 
-within your own university or laboratory, and your local community: 
+value relative to strangers from another university or country. **We
+are particularly interested in ways in which non-standard resources
+are being deployed to support new and creative efforts in the face
+of the pandemic and its effects.**
+Here are some ideas for possible contacts you can make and questions you can 
+explore within your own university or laboratory, and your local community: 
 
   * Does your research computing have a policy regarding COVID-19 activities?
     Are they supporting only local researchers? Do they have resources that
