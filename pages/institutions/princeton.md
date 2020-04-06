@@ -6,4 +6,8 @@ pagetype: institution
 
 # Princeton University
 
+  Highlights include:
+
+  * Foo
+  * Bar
 
