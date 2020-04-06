@@ -50,7 +50,7 @@ in the summary below of the activities at your institution.
 
 ## Efforts and Resources at Individual Universities and Laboratories
 
-</ul> 
+<ul> 
 {% assign sorted = site.pages | sort_natural: 'title' %}
 {% for mypage in sorted %}
   {% if mypage.pagetype == 'institution' %}
