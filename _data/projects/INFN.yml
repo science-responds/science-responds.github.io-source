@@ -1,0 +1,18 @@
+title: INFN CovidStat 
+
+description: |
+  CovidStat is a project by INFN (Italian Institute for Nuclear Physics) -- in italian -- designed to collect up-to-date data on the impact ov Covid in Italy. There is no intention for forecasts, just a managed data collection with advanced showing capabilties.
+resources:
+  - "Project [homepage](https://covid19.infn.it/wp/)"
+    
+needs: |
+    Currently the project is fully staffed by INFN
+
+tags:
+  - ml
+  - ds
+  - wd
+  - dv
+
+involve: |
+    * Email tommaso.boccali@gmail.com 
