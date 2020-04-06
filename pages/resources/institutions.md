@@ -50,13 +50,12 @@ in the summary below of the activities at your institution.
 
 ## Efforts and Resources at Individual Universities and Laboratories
 
-### University of X
-   *template to be provided*
+</ul> 
+{% assign sorted = site.pages | sort_natural: 'title' %}
+{% for mypage in sorted %}
+  {% if mypage.pagetype == 'institution' %}
+  <li><a href="{{mypage.permalink}}">{{ mypage.title }}</a></li>
+  {% endif %}
+{% endfor %}
+</ul> 
 
-### Laboratory Y
-   *template to be provided*
-
-### Z University
-   *template to be provided*
-
- 
