@@ -1,12 +1,12 @@
 ---
-title: Lawrence Berkley Lab (BNL)
-permalink: /institutions/bnl/
+title: Lawrence Berkeley National Lab (LBNL)
+permalink: /institutions/lbnl/
 pagetype: institution
 ---
 
-# Lawrence Berkley Lab (LBL)
+# Lawrence Berkeley National Lab (LBNL)
 
-  LBL describes its COVID-19-related efforts on its [COVID-19 Related Research at Berkeley Lab](https://stratcomm-elements.lbl.gov/2020/03/31/covid-19-related-research-at-berkeley-lab/) webpage.
+  LNBL describes its COVID-19-related efforts on its [COVID-19 Related Research at Berkeley Lab](https://stratcomm-elements.lbl.gov/2020/03/31/covid-19-related-research-at-berkeley-lab/) webpage.
 
   Highlights include:
 
@@ -14,5 +14,5 @@ pagetype: institution
   * Computational projects
   * Some Advanced Light Source projects to try and help develop therapeutics for COVID-19.
   
-Please see the LBL webpage for more details.
+Please see the LBNL webpage for more details.
 
