@@ -4,7 +4,7 @@ permalink: /institutions/illinois/
 pagetype: institution
 ---
 
-# The State University of New York (SUNY)
+# University of Illinois at Urbana-Champaign
 
   At this time, there is no known single place where a summary of the latest COVID-19-related activities can be found. Will update here if/when such a resource becomes available. 
 
