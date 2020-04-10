@@ -16,7 +16,17 @@ resources:
   - "[Folding at Home is now more powerful than the World’s top 7 super computers, combined!](https://www.tomshardware.com/news/folding-at-home-worlds-top-supercomputers-coronavirus-covid-19)"
 
 needs: |
-   Anyone with a computer!
+  Anyone with a computer! Particularly in the areas of
+
+  * Strategic Product Design
+  * Gamification
+  * Website Enhancement
+  * Client Programming (C++, Web dev, JS, vue.js, JSON API)
+  * Project Viewer
+  * Stats
+  * Protein Viewer
+  * Github Issue Triage
+   
 
 tags:
   - ds
@@ -28,3 +38,4 @@ tags:
 
 involve: |
   Follow the instructions on the COVID-19 [page](https://foldingathome.org/covid19/)
+  Sign up for the dev team at: [](https://tinyurl.com/FAHdev)
