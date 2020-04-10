@@ -1,0 +1,22 @@
+title: "MILA COVID-19 Projects" 
+
+description: |
+    The primary objective of the Mila AI taskforce is to bring together an interdisciplinary team of researchers in machine learning, bioinformatics, immunology, virology and vaccine design to create open source, data-driven tools that could be deployed in current and future outbreaks. The group has their own set of projects including Peer to Peer AI-based tracing of COVID and Machine Learning for therapuetics discovery. The website also links to other (primarily Canadian) open science projects.
+
+resources:
+  - "MILA for COVID [homepage](https://sites.google.com/site/irinarish/aiagainstcovid19)"
+  - "List of MILA [projects](https://sites.google.com/site/irinarish/aiagainstcovid19)"
+  - "AI Against COVID Canada [webpage](https://ai-against-covid.ca/)"
+  - "Official [press release](https://mila.quebec/en/mila-and-its-partners-rally-the-scientific-community-to-develop-novel-data-driven-solutions-to-assist-with-covid-19-outbreak/)"
+
+needs: |
+    AI researchers, with or without existing COVID related projects.
+
+tags:
+  - ml
+
+involve: |
+    * Join the group [slack](https://join.slack.com/t/covid19-task-force/shared_invite/zt-dhh9ibdw-A9BA1KdF~eJeXFtWov9roA)
+    * Fill out the request for collaboration [form](https://forms.gle/DnhQar6W8hYbwjBH9)
+    * Send an email to covid19research@mila.quebec
+

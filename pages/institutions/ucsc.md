@@ -6,7 +6,7 @@ pagetype: institution
 
 # University of California, Santa Cruz (UC Santa Cruz)
 
-Recent efforts related to the coronavirus at UC Santa Cruz are described at [this](https://news.ucsc.edu/2020/04/coronavirus-research.html) and [this](https://news.ucsc.edu/2020/04/vargas-pandemic.html) newsrelease (more to follow).
+Recent efforts related to the coronavirus at UC Santa Cruz are described at [this](https://news.ucsc.edu/2020/04/coronavirus-research.html) and [this](https://news.ucsc.edu/2020/04/vargas-pandemic.html) news release (more to follow).
 
 Highlights include:
 

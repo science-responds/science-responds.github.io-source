@@ -1,0 +1,21 @@
+title: "COVID Care Map"
+
+description: |
+  This project aims to understand, anticipate, and act to support and ramp up our health systems' capacity (beds, staffing, ventilators, supplies) to effectively care for a rapidly growing number of active COVID19 patients in need of hospitalization and intensive (ICU) care. We do open-source data collection, geospatial analysis, visualizations, and scenario-planning tools aimed at informing resource planning and deployment decisionmaking to support our healthcare providers at local, county, & state scale when and where the needs are greatest. USA-centric at the moment but tools and knowhow are intended to be applicable globally. 
+
+resources:
+  - "Project [webpage](https://www.covidcaremap.org/)"
+  - "Project GitHub [repository](https://github.com/covidcaremap/covid19-healthsystemcapacity)"
+  - "Project Gitter [Chat](https://gitter.im/covid19-healthsystemcapacity/community)"
+
+needs: |
+   Data scientists to collect and analyze open data sets, data visualizers, web developers, and project managers.
+
+tags:
+  - ds
+  - wd
+
+involve: |
+  * See the 'How to Help' [section](https://github.com/covidcaremap/covid19-healthsystemcapacity#how-to-help) on GitHub
+  * Run the mapping yourself and submit comments
+  
