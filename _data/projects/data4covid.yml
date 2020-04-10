@@ -1,0 +1,24 @@
+title: "Data 4 COVID19"
+
+description: |
+    This document serves as a repository for data collaboratives seeking to address the spread of COVID-19 and its secondary effects. It invites individuals to share projects that show a commitment to privacy protection, data responsibility, and overall user well-being. A project’s inclusion in this living repository does not indicate endorsement by The GovLab or confirmation of its success in meeting these goals. It is updated regularly with new projects and includes initiatives from around the world organized by area. It is curated by [GovLab](http://www.thegovlab.org/).
+
+resources:
+  - "Data 4 COVID [Repository](https://docs.google.com/document/d/1JWeD1AaIGKMPry_EN8GjIqwX4J4KLQIAqP09exZ-ENI/preview#)"
+  - "GDPR [repository](https://gdprhub.eu/index.php?title=Data_Protection_under_SARS-CoV-2) on data protection under SARS-CoV-2"
+  - "GovLab Data Collaboratives [page](https://datacollaboratives.org/)"
+  - "Coronavirus Tech [Handbook](https://coronavirustechhandbook.com/home)"
+
+needs: |
+    Any skill set can be useful, from project management to design to data science.
+
+tags:
+  - ml
+  - ds
+  - ad
+  - wd
+  - other
+
+involve: |
+    * Find a project that interests you and check out their webpage or contribute to the repository.
+    
