@@ -20,9 +20,12 @@ of personnel and students and then "continuity of critical operations". You
 may find that more of them are now trying to find ways to marshall
 their capabilities and make an impact. Reaching
 out to people within your local institution probably adds some "trust" 
-value relative to strangers from another university or country. Here are 
-some ideas for possible contacts you can make and questions you can explore 
-within your own university or laboratory, and your local community: 
+value relative to strangers from another university or country. **We
+are particularly interested in ways in which non-standard resources
+are being deployed to support new and creative efforts in the face
+of the pandemic and its effects.**
+Here are some ideas for possible contacts you can make and questions you can 
+explore within your own university or laboratory, and your local community: 
 
   * Does your research computing have a policy regarding COVID-19 activities?
     Are they supporting only local researchers? Do they have resources that
@@ -33,22 +36,26 @@ within your own university or laboratory, and your local community:
     there data handling issues related to local COVID-19 research? (Including
     the use of national resources by local teams?)
 
-  * What COVID-19 related research is happening on your campus? Are there 
-    any local COVID-19 research collaborations that are forming?
+  * Are there any new and innovative COVID-19 research collaborations that 
+    are forming between non-traditional partners on your campus?
 
-  * Are there activities related to medical equipment in your insitution?
+  * Are there activities in your insitution towards temporary production of 
+    medical equipment to help deal with the shortfalls in availability for
+    health workers?
     For example, efforts to produce personal protective equipment using
-    3D-printers? 
+    3D-printers, or ventilators and other associated items? 
+
+If there are web links related to any of these things, please include them
+in the summary below of the activities at your institution.
 
 ## Efforts and Resources at Individual Universities and Laboratories
 
-### University of X
-   *template to be provided*
+<ul> 
+{% assign sorted = site.pages | sort_natural: 'title' %}
+{% for mypage in sorted %}
+  {% if mypage.pagetype == 'institution' %}
+  <li><a href="{{mypage.permalink}}">{{ mypage.title }}</a></li>
+  {% endif %}
+{% endfor %}
+</ul> 
 
-### Laboratory Y
-   *template to be provided*
-
-### Z University
-   *template to be provided*
-
- 
