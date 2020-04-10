@@ -38,3 +38,11 @@ permalink: /resources/datasets
 
 + [**Google COVID-19 daaset access**](https://console.cloud.google.com/marketplace/details/bigquery-public-datasets\
 /covid19-public-data-program?_ga=2.25371005.-1523446672.1585631840): A hosted repository of public datasets like the Johns Hopkins Center for Systems Science and Engineering, Global Health Data from World Bank, and OpenStreetMap data. Open unil September 15, 2020.
+
++ [**COVID-19 Dataset Clearinghouse**](https://asone.ai/polymath/index.php?title=COVID-19_dataset_clearinghouse): A collection of global open datasets including epidemiology, literature, economics, policy, and social traffic.
+
++ [**World Bank Understanding Covid**](http://datatopics.worldbank.org/universal-health-coverage/covid19/): A collection of data from World Bank's data catalog and other authoritative sources. Includes WB operational response, trade flow data, and social and labor policies.
+
++ [**Facebook's Data for Good Combat COVID**](https://about.fb.com/news/2020/04/data-for-good/): Offers maps on population movement that researchers and nonprofits are already using to understand the coronavirus crisis, using aggregated data to protect people’s privacy. Includes co-location forecasting and movement range trends.
+
++ [**New York Times Coronavirus Case Data**](https://www.nytimes.com/article/coronavirus-county-data-us.html): A regularly updated dataset of coronavirus cases for every US county.
