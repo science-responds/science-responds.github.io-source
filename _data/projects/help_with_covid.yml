@@ -1,0 +1,22 @@
+title: "Help with COVID-19"
+
+description: |
+    A website to connect volunteers with open source projects. Users can sort projects by skill type or project focus. Currently lists over 500 projects ranging from telemedicine to community support apps.
+
+resources:
+  - "Main [webpage](https://helpwithcovid.com/)"
+  - "Project [discord](https://discordapp.com/invite/8nAJfFN)"
+
+needs: |
+    Any skill set can be useful, from project management to design to data science
+
+tags:
+  - ml
+  - ds
+  - ad
+  - wd
+  - other
+
+involve: |
+    * Hop on the webstie and find a project that interests you (or add your own)!
+    
