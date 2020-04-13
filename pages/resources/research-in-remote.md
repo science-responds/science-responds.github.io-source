@@ -14,4 +14,4 @@ permalink: /resources/research-in-remote/
   * [Bar Camp](https://en.wikipedia.org/wiki/BarCamp)
   * [Conferences and COVID-19](https://www.insidehighered.com/blogs/learning-innovation/conferences-and-covid-19)
   * [Why I will be flying less](http://www.russpoldrack.org/2019/06/why-i-will-be-flying-less.html)
-  * [A Nearly Carbon-neutral Conference Model - White Paper / Practical Guide]
+  * [A Nearly Carbon-neutral Conference Model - White Paper / Practical Guide](http://hiltner.english.ucsb.edu/index.php/ncnc-guide/)
