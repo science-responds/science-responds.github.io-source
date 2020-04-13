@@ -1,0 +1,31 @@
+title: COVID-19 National Scientist Volunteer Database
+
+description: |
+    This project sets up a database of scientists in the United States 
+    who are eager to volunteer their time, expertise, and resources to help
+    fight COVID-19. Scientist volunteers range across disciplines, such as
+    bioinformatics and data management. Individuals can add themselves to the
+    database and are asked to answer several questions about themselves to
+    help identify where they or their resources might be useful. Efforts that 
+    need volunteers or resources can request access to the database in order 
+    to help their fight against COVID-19. This allows organizations to find
+    the right volunteers within their local area.
+  
+resources:
+  - "Project [home page](https://covid19sci.org/)"
+    
+
+needs: |
+    A wide range of skill sets could be needed, as the database can be made available
+    to different projects as the need arises. Although the questions focus primarily on
+    biological skill sets such as qPCR experience, skill sets of all types may be needed
+    and other skill sets can be listed. 
+
+tags:
+  - other
+
+involve: |
+    [Add yourself](https://covid19sci.org/join/) to their database.
+    Join one of the [community groups](https://covid19sci.org/groups/) in your region,
+    or start your own.
+    Organizations seeking volunteers can [request access to the database](https://covid19sci.org/access/).
