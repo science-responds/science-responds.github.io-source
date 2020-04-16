@@ -1,6 +1,6 @@
 ---
-title: Italian Institute for Nuclear Physics (INFN
-permalink: /institutions/suny/
+title: Italian Institute for Nuclear Physics (INFN)
+permalink: /institutions/infn/
 pagetype: institution
 ---
 
