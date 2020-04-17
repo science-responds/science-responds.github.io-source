@@ -40,3 +40,6 @@ and/or calling proposals on COVID-19 research.
   * Compute4COVID - [GitHub](https://github.com/foertter/Compute4COVID)
     * A collection of compute resources for people doing research related to COVID virus curated by a small consortia of computing centers wishing to support efforts to combat COVID. It is intended to connect people to available resources.
     * Includes links to a collection of Cloud and HPC resources.
+    
+  * [Alliance4CI](https://alliance4ci.org/)
+    * The [NSF Cyberinfrastructure Center of Excellence Pilot](https://cicoe-pilot.org/), [Trusted CI](https://trustedci.org/), and the [Science Gateways Community Institute](https://sciencegateways.org/) are all available to help the science community tackle research to address the coronavirus disease 2019 (COVID-19) outbreak through priority short-term consultations to tackle CI challenges. To request assistance, please send an email to [covid19@trustedci.org](mailto:covid19@trustedci.org) and we will be in contact.
