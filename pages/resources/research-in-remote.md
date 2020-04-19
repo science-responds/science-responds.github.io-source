@@ -16,3 +16,5 @@ permalink: /resources/research-in-remote/
   * [Why I will be flying less](http://www.russpoldrack.org/2019/06/why-i-will-be-flying-less.html)
   * [A Nearly Carbon-neutral Conference Model - White Paper / Practical Guide](http://hiltner.english.ucsb.edu/index.php/ncnc-guide/)
   * [High-energy particle physicists figured out video conferencing a long time ago](https://qz.com/1832018/how-physicists-solved-your-zoom-video-conferencing-problems/amp/)
+  * [Nature News: Low-carbon, virtual science conference tries to recreate social buzz](https://www.nature.com/articles/d41586-019-03899-1)
+  * [Remotely Green](https://remotely.green/)
