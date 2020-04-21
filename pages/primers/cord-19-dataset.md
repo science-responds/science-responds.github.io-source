@@ -22,7 +22,7 @@ Natural language processing (NLP) is a vast field of study and often involves la
 
   * First steps of mining the text is often breaking up the corpus based on key phrases and "tokenizing" sentences. [SpaCy](https://spacy.io/) is an open source python tool for doing this generally. For biomedical, scientific or clinical text, [scispacy] (https://allenai.github.io/scispacy/) is a python library of spaCy models trained specifically on biomedical text.
 
-  * Text ranking tools also exist to identify key phrases, infer links between words, and extract summary phrases from the body text. Many such tools exist, but here I list two to kickstart investigating the text. [pyTextRank] (https://github.com/DerwenAI/pytextrank) is a graph-based text ranking alogrithm. [RAKE](https://pypi.org/project/rake-nltk/) creates a covariance matrix based on word frequency and co-occurence with other words.
+  * Text ranking tools also exist to identify key phrases, infer links between words, and extract summary phrases from the body text. Many such tools exist, but here I list two to kickstart investigating the text. [pyTextRank](https://github.com/DerwenAI/pytextrank) is a graph-based text ranking alogrithm. [RAKE](https://pypi.org/project/rake-nltk/) creates a covariance matrix based on word frequency and co-occurence with other words. 
 
   * [K-means clustering](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html) is one approach to cluster key words from the corpus into candidate topics.
   * [Latent Dirichlet Allocation](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.LatentDirichletAllocation.html#id1) is a well studied method of finding topics in a corpus based on the Dirichlet probability distribution.</p>
