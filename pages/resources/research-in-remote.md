@@ -18,3 +18,4 @@ permalink: /resources/research-in-remote/
   * [High-energy particle physicists figured out video conferencing a long time ago](https://qz.com/1832018/how-physicists-solved-your-zoom-video-conferencing-problems/amp/)
   * [Nature News: Low-carbon, virtual science conference tries to recreate social buzz](https://www.nature.com/articles/d41586-019-03899-1)
   * [Remotely Green](https://remotely.green/)
+  * [GREEN Physics - A Nearly Carbon-Neutral Conference for Particle Physics](http://greenphysicsconference.com/)
