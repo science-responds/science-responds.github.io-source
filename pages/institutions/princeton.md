@@ -6,8 +6,8 @@ pagetype: institution
 
 # Princeton University
 
-  Princeton does not have a central landing page regarding COVID-19 related
-research. Many Princeton researchers are involved in related research and the University itself has recently funded a number of [rapid, novel and actional COVID-19 research projects](https://www.princeton.edu/news/2020/04/10/princeton-awards-over-half-million-dollars-funding-rapid-novel-and-actionable-covid)
+  Princeton researchers are engaged in a [variety of COVID-19 related research projects](https://research.princeton.edu/research-administration/covid-19-information-researchers/covid-19-research-news). 
+The University itself has recently funded a number of [rapid, novel and actional COVID-19 research projects](https://www.princeton.edu/news/2020/04/10/princeton-awards-over-half-million-dollars-funding-rapid-novel-and-actionable-covid)
 
   Highlights include:
 
