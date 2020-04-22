@@ -7,7 +7,7 @@ pagetype: institution
 # Princeton University
 
   Princeton researchers are engaged in a [variety of COVID-19 related research projects](https://research.princeton.edu/research-administration/covid-19-information-researchers/covid-19-research-news). 
-The University itself has recently funded a number of [rapid, novel and actional COVID-19 research projects](https://www.princeton.edu/news/2020/04/10/princeton-awards-over-half-million-dollars-funding-rapid-novel-and-actionable-covid)
+The University itself has recently funded a number of [rapid, novel and actionable COVID-19 research projects](https://www.princeton.edu/news/2020/04/10/princeton-awards-over-half-million-dollars-funding-rapid-novel-and-actionable-covid)
 
   Highlights include:
 
@@ -21,5 +21,5 @@ The University itself has recently funded a number of [rapid, novel and actional
     hospital health care system in Pennsylvania and New Jersey. This is
     an open monitoring solution for use in field hospitals which might need
     to use older ventilator designs or assisted breathing devices that 
-    lackmodern patient monitoring capabilities. 
+    lack modern patient monitoring capabilities. 
 
