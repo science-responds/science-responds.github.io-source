@@ -5,6 +5,14 @@ permalink: /resources/articles
 
 {%- include get_pub_list.html -%}
 {%- include get_article_list.html -%}
+{%- include get_collection_list.html -%}
+
+### Related publicaton lists
+<ul>
+{% for pub in sorted_collections %}
+<li> {% include print_pub.html pub=pub %} </li>
+{% endfor %}
+</ul>
 
 ### Related academic papers
 <ul>
