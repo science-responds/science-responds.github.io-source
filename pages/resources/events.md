@@ -46,3 +46,12 @@ permalink: /resources/events
      {% endif %}
   {% endfor %}
 </ul>
+
+### Upcoming highlights
+<ul>
+  {% for evt in sorted_events %}
+     {% if evt.highlight != 'yes' %}
+       <li> {% include print_evt.html evt=evt %} </li>
+     {% endif %}
+  {% endfor %}
+</ul>
