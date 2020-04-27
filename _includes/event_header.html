@@ -16,7 +16,7 @@
 <div class="pane">
 <h5 class="card-title">Upcoming events</h5>
 <p class="card-text">
-<ul>
+<ul style="list-style-type:none;">
   {% for evt in sorted_events %}
      {% if evt.highlight %}
      {% assign t_date = evt.date | date: "%s" %}
