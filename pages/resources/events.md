@@ -48,10 +48,13 @@ permalink: /resources/events
 </ul>
 
 
+{% assign currentdatecmp = 'now' | date: "%s" %}
 {% assign i = 0 %}
 {% for evt in sorted_events %}
    {% if evt.highlight == 'yes' %}
+   {% if evt.date >= currentdatecmp %} 
     {% increment i %}
+   {% endif %}
    {% endif %}
 {% endfor %}
 
@@ -60,8 +63,9 @@ permalink: /resources/events
 <ul>
   {% for evt in sorted_events %}
      {% if evt.highlight == 'yes' %}
+     {% if evt.date >= currentdatecmp %} 
        <li> {% include print_evt.html evt=evt %} </li>
-      {% increment i %}
+     {% endif %}
      {% endif %}
   {% endfor %}
 </ul>
