@@ -52,7 +52,8 @@ permalink: /resources/events
 {% assign i = 0 %}
 {% for evt in sorted_events %}
    {% if evt.highlight == 'yes' %}
-   {% if evt.date >= currentdatecmp %} 
+   {% assign t_date = evt.date | date: "%s" %}
+   {% if t_date >= currentdatecmp %} 
     {% increment i %}
    {% endif %}
    {% endif %}
@@ -60,13 +61,15 @@ permalink: /resources/events
 
 {{ currentdatecmp }}
 {{ i }}
+{{ t_date }}
 
 {% if i > 0 %}
 ### Upcoming highlights
 <ul>
   {% for evt in sorted_events %}
      {% if evt.highlight == 'yes' %}
-     {% if evt.date >= currentdatecmp %} 
+     {% assign t_date = evt.date | date: "%s" %}
+     {% if t_date >= currentdatecmp %}      
        <li> {% include print_evt.html evt=evt %} </li>
      {% endif %}
      {% endif %}
