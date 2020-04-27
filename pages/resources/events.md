@@ -47,11 +47,22 @@ permalink: /resources/events
   {% endfor %}
 </ul>
 
+
+{% assign i = 0 %}
+{% for evt in sorted_events %}
+   {% if evt.highlight == 'yes' %}
+    {% increment i %}
+   {% endif %}
+{% endfor %}
+
+{% if i > 0 %}
 ### Upcoming highlights
 <ul>
   {% for evt in sorted_events %}
-     {% if evt.highlight != 'yes' %}
+     {% if evt.highlight == 'yes' %}
        <li> {% include print_evt.html evt=evt %} </li>
+      {% increment i %}
      {% endif %}
   {% endfor %}
 </ul>
+{% endif %}
