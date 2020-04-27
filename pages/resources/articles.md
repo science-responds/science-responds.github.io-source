@@ -9,8 +9,8 @@ permalink: /resources/articles
 
 ### Related publicaton lists
 <ul>
-{% for pub in sorted_collections %}
-<li> {% include print_pub.html pub=pub %} </li>
+{% for coll in sorted_collections %}
+<li> {% include print_coll.html coll=coll %} </li>
 {% endfor %}
 </ul>
 
