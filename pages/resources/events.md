@@ -58,7 +58,7 @@ permalink: /resources/events
    {% endif %}
    {% endif %}
 {% endfor %}
-{ i }
+
 {% if i > 0 %}
 ### Upcoming highlights
 <ul>
