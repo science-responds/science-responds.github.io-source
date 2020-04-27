@@ -58,6 +58,9 @@ permalink: /resources/events
    {% endif %}
 {% endfor %}
 
+{{ currentdatecmp }}
+{{ i }}
+
 {% if i > 0 %}
 ### Upcoming highlights
 <ul>
