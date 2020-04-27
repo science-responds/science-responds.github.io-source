@@ -51,13 +51,12 @@ permalink: /resources/events
 {% assign currentdatecmp = 'now' | date: "%s" %}
 {% assign i = 0 %}
 {% for evt in sorted_events %}
-   {{ evt.highlight }} 
-   {{ evt.date }}
    {% if evt.highlight %}
    {% assign t_date = evt.date | date: "%s" %}
    {{ evt.date }} 
    {{ t_date }}
-   {% if t_date >= currentdatecmp %} 
+   {% if t_date >= currentdatecmp %}
+    Increment
     {% increment i %}
    {% endif %}
    {% endif %}
