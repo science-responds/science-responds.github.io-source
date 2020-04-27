@@ -5,7 +5,7 @@ permalink: /resources/events
 
 {% include get_event_list.html %}
 
-### Conferences and workshops
+### Seminars, discussions, conferences and workshops
 <ul>
   {% for evt in sorted_events %}
      {% if evt.type == 'conference' %}
