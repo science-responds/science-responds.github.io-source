@@ -49,25 +49,17 @@ permalink: /resources/events
 
 
 {% assign currentdatecmp = 'now' | date: "%s" %}
-{% assign i = 0 %}
+{% assign i = -1 %}
 {% for evt in sorted_events %}
    {% if evt.highlight %}
    {% assign t_date = evt.date | date: "%s" %}
-   {{ evt.date }} 
-   {{ t_date }}
    {% if t_date >= currentdatecmp %}
-    Increment
     {% increment i %}
    {% endif %}
    {% endif %}
 {% endfor %}
 
-Test area
-{{ currentdatecmp }}
-{{ i }}
-{{ t_date }}
-
-{% if i > 0 %}
+{% if i >= 0 %}
 ### Upcoming highlights
 <ul>
   {% for evt in sorted_events %}
