@@ -63,6 +63,7 @@ permalink: /resources/events
    {% endif %}
 {% endfor %}
 
+Test area
 {{ currentdatecmp }}
 {{ i }}
 {{ t_date }}
