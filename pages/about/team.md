@@ -15,5 +15,6 @@ and engage additional people, but it is essentially a "do-acracy".
   * Markus Elsing, Maria Girone, Lukas Heinrich, [Mario Lassnig](https://twitter.com/mlassnig) - CERN
   * Chris Tunnell - Rice University
   * Mark Neubauer - University of Illinois at Urbana-Champaign
+  * Liz Sexton-Kennedy - Fermilab
 
 If you are active, please feel free to add your name here.
