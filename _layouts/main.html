@@ -8,7 +8,7 @@
       <div class="container homepage">
         <div class="homepage-content">
         <main role="main">
-          {% include event_header.html %}
+          
           {{ content }}
 
           {%- include get_slack.html %}
@@ -49,6 +49,7 @@
         </main>
         </div>
         <div class="homepage-twitter">
+          {% include event_header.html %}  
           {% include twitter.html %}
         </div>
       </div>
