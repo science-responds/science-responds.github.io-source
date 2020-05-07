@@ -33,8 +33,10 @@ science researchers to:
      ideas for how to approach this?
 
 The website provides links to various information sources on COVID-19 related
-research, resources and research projects. We are also actively engaged
-through discussion in the Slack channel and periodic meetings in building
-further connections and enabling related discussions.
+research, resources and research projects. We are curating information
+about, and promoting, various COVID-19 related projects done by this 
+larger scientific community. (Please [let us know](mailto:science-responds-owner@googlegroups.com) if you would like your project added to the lists.) We are 
+also actively engaged through discussion in the Slack channel and periodic 
+meetings in building further connections and enabling related discussions.
 
 
