@@ -1,10 +1,10 @@
 ---
-title: Lawrence Berkeley National Lab (LBNL)
+title: Lawrence Berkeley National Laboratory (LBNL)
 permalink: /institutions/lbnl/
 pagetype: institution
 ---
 
-# Lawrence Berkeley National Lab (LBNL)
+# Lawrence Berkeley National Laboratory (LBNL)
 
   LNBL describes its COVID-19-related efforts on its [COVID-19 Related Research at Berkeley Lab](https://stratcomm-elements.lbl.gov/2020/03/31/covid-19-related-research-at-berkeley-lab/) webpage.
 

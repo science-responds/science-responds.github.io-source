@@ -1,10 +1,10 @@
 ---
-title: Fermi National Accelerator Lab (FNAL)
+title: Fermi National Accelerator Laboratory (FNAL)
 permalink: /institutions/fnal/
 pagetype: institution
 ---
 
-# Fermi National Accelerator Lab (FNAL)
+# Fermi National Accelerator Laboratory (FNAL)
 
   Fermilab is a single purpose High Energy Physics lab limiting what we can officially do to fight COVID-19, however
  many of us are volunteering our time and talents, mobilizing our strengths in international partnerships and computing.
