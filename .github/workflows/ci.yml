@@ -18,8 +18,8 @@ jobs:
         ruby-version: '2.6'
 
     - name: Install apt requirements
-      run:
-        sudo apt-get update|
+      run: |
+        sudo apt-get update
         sudo apt-get install libxslt-dev libxml2-dev
         gem install bundler
     - name: Bundle install
